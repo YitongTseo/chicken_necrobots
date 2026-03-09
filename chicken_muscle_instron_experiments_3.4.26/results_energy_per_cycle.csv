@@ -1,0 +1,991 @@
+condition,trial_file,slip,cycle,energy_mJ
+10% formalin / no glycerin,10%-formalin-noglyc_11.46x4.25-9.85x4_20260304_155209.is_tcyclic.csv,,1,0.7636949999999842
+10% formalin / no glycerin,10%-formalin-noglyc_11.46x4.25-9.85x4_20260304_155209.is_tcyclic.csv,,2,0.7012750000000096
+10% formalin / no glycerin,10%-formalin-noglyc_11.46x4.25-9.85x4_20260304_155209.is_tcyclic.csv,,3,0.6584950000000163
+10% formalin / no glycerin,10%-formalin-noglyc_11.46x4.25-9.85x4_20260304_155209.is_tcyclic.csv,,4,0.6283750000000055
+10% formalin / no glycerin,10%-formalin-noglyc_11.46x4.25-9.85x4_20260304_155209.is_tcyclic.csv,,5,0.6059949999999787
+10% formalin / no glycerin,10%-formalin-noglyc_11.46x4.25-9.85x4_20260304_155209.is_tcyclic.csv,,6,0.5991399999999771
+10% formalin / no glycerin,10%-formalin-noglyc_11.46x4.25-9.85x4_20260304_155209.is_tcyclic.csv,,7,0.5824849999999913
+10% formalin / no glycerin,10%-formalin-noglyc_11.46x4.25-9.85x4_20260304_155209.is_tcyclic.csv,,8,0.5664799999999843
+10% formalin / no glycerin,10%-formalin-noglyc_11.46x4.25-9.85x4_20260304_155209.is_tcyclic.csv,,9,0.54622999999998
+10% formalin / no glycerin,10%-formalin-noglyc_11.46x4.25-9.85x4_20260304_155209.is_tcyclic.csv,,10,0.544840000000022
+10% formalin / no glycerin,10%-formalin-noglyc_11.46x4.25-9.85x4_20260304_155209.is_tcyclic.csv,,11,0.5443050000000085
+10% formalin / no glycerin,10%-formalin-noglyc_11.46x4.25-9.85x4_20260304_155209.is_tcyclic.csv,,12,0.5463349999999991
+10% formalin / no glycerin,10%-formalin-noglyc_11.46x4.25-9.85x4_20260304_155209.is_tcyclic.csv,,13,0.5409850000000063
+10% formalin / no glycerin,10%-formalin-noglyc_11.46x4.25-9.85x4_20260304_155209.is_tcyclic.csv,,14,0.533155000000022
+10% formalin / no glycerin,10%-formalin-noglyc_11.46x4.25-9.85x4_20260304_155209.is_tcyclic.csv,,15,0.539024999999981
+10% formalin / no glycerin,10%-formalin-noglyc_11.46x4.25-9.85x4_20260304_155209.is_tcyclic.csv,,16,0.5272649999999999
+10% formalin / no glycerin,10%-formalin-noglyc_11.46x4.25-9.85x4_20260304_155209.is_tcyclic.csv,,17,0.5296450000000164
+10% formalin / no glycerin,10%-formalin-noglyc_11.46x4.25-9.85x4_20260304_155209.is_tcyclic.csv,,18,0.5356550000000198
+10% formalin / no glycerin,10%-formalin-noglyc_11.46x4.25-9.85x4_20260304_155209.is_tcyclic.csv,,19,0.5343799999999987
+10% formalin / no glycerin,10%-formalin-noglyc_11.46x4.25-9.85x4_20260304_155209.is_tcyclic.csv,,20,0.5333650000000034
+10% formalin / no glycerin,10%-formalin-noglyc_11.46x4.25-9.85x4_20260304_155209.is_tcyclic.csv,,21,0.5219700000000103
+10% formalin / no glycerin,10%-formalin-noglyc_11.46x4.25-9.85x4_20260304_155209.is_tcyclic.csv,,22,0.5335149999999942
+10% formalin / no glycerin,10%-formalin-noglyc_11.46x4.25-9.85x4_20260304_155209.is_tcyclic.csv,,23,0.525305000000003
+10% formalin / no glycerin,10%-formalin-noglyc_11.46x4.25-9.85x4_20260304_155209.is_tcyclic.csv,,24,0.5198950000000195
+10% formalin / no glycerin,10%-formalin-noglyc_11.46x4.25-9.85x4_20260304_155209.is_tcyclic.csv,,25,0.5246349999999893
+10% formalin / no glycerin,10%-formalin-noglyc_11.46x4.25-9.85x4_20260304_155209.is_tcyclic.csv,,26,0.5237099999999941
+10% formalin / no glycerin,10%-formalin-noglyc_11.46x4.25-9.85x4_20260304_155209.is_tcyclic.csv,,27,0.5284049999999638
+10% formalin / no glycerin,10%-formalin-noglyc_11.46x4.25-9.85x4_20260304_155209.is_tcyclic.csv,,28,0.5287800000000118
+10% formalin / no glycerin,10%-formalin-noglyc_11.46x4.25-9.85x4_20260304_155209.is_tcyclic.csv,,29,0.5322150000000079
+10% formalin / no glycerin,10%-formalin-noglyc_11.46x4.25-9.85x4_20260304_155209.is_tcyclic.csv,,30,0.5355849999999975
+10% formalin / no glycerin,10%-formalin-noglyc_11.46x4.25-9.85x4_20260304_155209.is_tcyclic.csv,,31,0.5260999999999854
+10% formalin / no glycerin,10%-formalin-noglyc_11.46x4.25-9.85x4_20260304_155209.is_tcyclic.csv,,32,0.5337000000000103
+10% formalin / no glycerin,10%-formalin-noglyc_11.46x4.25-9.85x4_20260304_155209.is_tcyclic.csv,,33,0.5332699999999875
+10% formalin / no glycerin,10%-formalin-noglyc_11.46x4.25-9.85x4_20260304_155209.is_tcyclic.csv,,34,0.5244299999999669
+10% formalin / no glycerin,10%-formalin-noglyc_11.46x4.25-9.85x4_20260304_155209.is_tcyclic.csv,,35,0.5274000000000285
+10% formalin / no glycerin,10%-formalin-noglyc_11.46x4.25-9.85x4_20260304_155209.is_tcyclic.csv,,36,0.5308450000000278
+10% formalin / no glycerin,10%-formalin-noglyc_11.46x4.25-9.85x4_20260304_155209.is_tcyclic.csv,,37,0.528080000000017
+10% formalin / no glycerin,10%-formalin-noglyc_11.46x4.25-9.85x4_20260304_155209.is_tcyclic.csv,,38,0.5246850000000052
+10% formalin / no glycerin,10%-formalin-noglyc_11.46x4.25-9.85x4_20260304_155209.is_tcyclic.csv,,39,0.5269250000000056
+10% formalin / no glycerin,10%-formalin-noglyc_11.46x4.25-9.85x4_20260304_155209.is_tcyclic.csv,,40,0.5254600000000096
+10% formalin / no glycerin,10%-formalin-noglyc_11.46x4.25-9.85x4_20260304_155209.is_tcyclic.csv,,41,0.5258950000000198
+10% formalin / no glycerin,10%-formalin-noglyc_11.46x4.25-9.85x4_20260304_155209.is_tcyclic.csv,,42,0.528064999999998
+10% formalin / no glycerin,10%-formalin-noglyc_11.46x4.25-9.85x4_20260304_155209.is_tcyclic.csv,,43,0.5156700000000569
+10% formalin / no glycerin,10%-formalin-noglyc_11.46x4.25-9.85x4_20260304_155209.is_tcyclic.csv,,44,0.5124749999999949
+10% formalin / no glycerin,10%-formalin-noglyc_11.46x4.25-9.85x4_20260304_155209.is_tcyclic.csv,,45,0.5131649999999581
+10% formalin / no glycerin,10%-formalin-noglyc_11.46x4.25-9.85x4_20260304_155209.is_tcyclic.csv,,46,0.5049199999999985
+10% formalin / no glycerin,10%-formalin-noglyc_11.46x4.25-9.85x4_20260304_155209.is_tcyclic.csv,,47,0.5129349999999704
+10% formalin / no glycerin,10%-formalin-noglyc_11.46x4.25-9.85x4_20260304_155209.is_tcyclic.csv,,48,0.5059400000000096
+10% formalin / no glycerin,10%-formalin-noglyc_11.46x4.25-9.85x4_20260304_155209.is_tcyclic.csv,,49,0.5014149999999802
+10% formalin / no glycerin,10%-formalin-noglyc_11.46x4.25-9.85x4_20260304_155209.is_tcyclic.csv,,50,0.5033449999999959
+10% formalin / no glycerin,10%-formalin-noglyc_11.46x4.25-9.85x4_20260304_155209.is_tcyclic.csv,,51,0.5063499999999408
+10% formalin / no glycerin,10%-formalin-noglyc_11.46x4.25-9.85x4_20260304_155209.is_tcyclic.csv,,52,0.5018349999999998
+10% formalin / no glycerin,10%-formalin-noglyc_11.46x4.25-9.85x4_20260304_155209.is_tcyclic.csv,,53,0.501989999999978
+10% formalin / no glycerin,10%-formalin-noglyc_11.46x4.25-9.85x4_20260304_155209.is_tcyclic.csv,,54,0.49786000000000286
+10% formalin / no glycerin,10%-formalin-noglyc_11.46x4.25-9.85x4_20260304_155209.is_tcyclic.csv,,55,0.4976999999999805
+10% formalin / no glycerin,10%-formalin-noglyc_11.46x4.25-9.85x4_20260304_155209.is_tcyclic.csv,,56,0.5040699999999845
+10% formalin / no glycerin,10%-formalin-noglyc_11.46x4.25-9.85x4_20260304_155209.is_tcyclic.csv,,57,0.4982300000000066
+10% formalin / no glycerin,10%-formalin-noglyc_11.46x4.25-9.85x4_20260304_155209.is_tcyclic.csv,,58,0.49251499999999737
+10% formalin / no glycerin,10%-formalin-noglyc_11.46x4.25-9.85x4_20260304_155209.is_tcyclic.csv,,59,0.4980150000000094
+10% formalin / no glycerin,10%-formalin-noglyc_11.46x4.25-9.85x4_20260304_155209.is_tcyclic.csv,,60,0.4979399999999998
+10% formalin / no glycerin,10%-formalin-noglyc_11.46x4.25-9.85x4_20260304_155209.is_tcyclic.csv,,61,0.49484999999998536
+10% formalin / no glycerin,10%-formalin-noglyc_11.46x4.25-9.85x4_20260304_155209.is_tcyclic.csv,,62,0.4953100000000177
+10% formalin / no glycerin,10%-formalin-noglyc_11.46x4.25-9.85x4_20260304_155209.is_tcyclic.csv,,63,0.48450500000001284
+10% formalin / no glycerin,10%-formalin-noglyc_11.46x4.25-9.85x4_20260304_155209.is_tcyclic.csv,,64,0.4975299999999834
+10% formalin / no glycerin,10%-formalin-noglyc_11.46x4.25-9.85x4_20260304_155209.is_tcyclic.csv,,65,0.48479500000004805
+10% formalin / no glycerin,10%-formalin-noglyc_11.46x4.25-9.85x4_20260304_155209.is_tcyclic.csv,,66,0.47944000000001097
+10% formalin / no glycerin,10%-formalin-noglyc_11.46x4.25-9.85x4_20260304_155209.is_tcyclic.csv,,67,0.4888650000000041
+10% formalin / no glycerin,10%-formalin-noglyc_11.46x4.25-9.85x4_20260304_155209.is_tcyclic.csv,,68,0.4891149999999982
+10% formalin / no glycerin,10%-formalin-noglyc_11.46x4.25-9.85x4_20260304_155209.is_tcyclic.csv,,69,0.482184999999987
+10% formalin / no glycerin,10%-formalin-noglyc_11.46x4.25-9.85x4_20260304_155209.is_tcyclic.csv,,70,0.4866700000000037
+10% formalin / no glycerin,10%-formalin-noglyc_11.46x4.25-9.85x4_20260304_155209.is_tcyclic.csv,,71,0.48646999999996865
+10% formalin / no glycerin,10%-formalin-noglyc_11.46x4.25-9.85x4_20260304_155209.is_tcyclic.csv,,72,0.486489999999975
+10% formalin / no glycerin,10%-formalin-noglyc_11.46x4.25-9.85x4_20260304_155209.is_tcyclic.csv,,73,0.48267500000002883
+10% formalin / no glycerin,10%-formalin-noglyc_11.46x4.25-9.85x4_20260304_155209.is_tcyclic.csv,,74,0.48049499999999057
+10% formalin / no glycerin,10%-formalin-noglyc_11.46x4.25-9.85x4_20260304_155209.is_tcyclic.csv,,75,0.4768149999999878
+10% formalin / no glycerin,10%-formalin-noglyc_11.46x4.25-9.85x4_20260304_155209.is_tcyclic.csv,,76,0.48003999999997404
+10% formalin / no glycerin,10%-formalin-noglyc_11.46x4.25-9.85x4_20260304_155209.is_tcyclic.csv,,77,0.480199999999968
+10% formalin / no glycerin,10%-formalin-noglyc_11.46x4.25-9.85x4_20260304_155209.is_tcyclic.csv,,78,0.48492000000001667
+10% formalin / no glycerin,10%-formalin-noglyc_11.46x4.25-9.85x4_20260304_155209.is_tcyclic.csv,,79,0.4803349999999966
+10% formalin / no glycerin,10%-formalin-noglyc_11.46x4.25-9.85x4_20260304_155209.is_tcyclic.csv,,80,0.48274000000003525
+10% formalin / no glycerin,10%-formalin-noglyc_11.46x4.25-9.85x4_20260304_155209.is_tcyclic.csv,,81,0.47971499999997036
+10% formalin / no glycerin,10%-formalin-noglyc_11.46x4.25-9.85x4_20260304_155209.is_tcyclic.csv,,82,0.48676499999999123
+10% formalin / no glycerin,10%-formalin-noglyc_11.46x4.25-9.85x4_20260304_155209.is_tcyclic.csv,,83,0.48499499999999784
+10% formalin / no glycerin,10%-formalin-noglyc_11.46x4.25-9.85x4_20260304_155209.is_tcyclic.csv,,84,0.4842649999999935
+10% formalin / no glycerin,10%-formalin-noglyc_11.46x4.25-9.85x4_20260304_155209.is_tcyclic.csv,,85,0.4823550000000125
+10% formalin / no glycerin,10%-formalin-noglyc_11.46x4.25-9.85x4_20260304_155209.is_tcyclic.csv,,86,0.4795349999999985
+10% formalin / no glycerin,10%-formalin-noglyc_11.46x4.25-9.85x4_20260304_155209.is_tcyclic.csv,,87,0.4773449999999855
+10% formalin / no glycerin,10%-formalin-noglyc_11.46x4.25-9.85x4_20260304_155209.is_tcyclic.csv,,88,0.475545000000011
+10% formalin / no glycerin,10%-formalin-noglyc_11.46x4.25-9.85x4_20260304_155209.is_tcyclic.csv,,89,0.47943499999999517
+10% formalin / no glycerin,10%-formalin-noglyc_11.46x4.25-9.85x4_20260304_155209.is_tcyclic.csv,,90,0.4789250000000038
+10% formalin / no glycerin,10%-formalin-noglyc_11.46x4.25-9.85x4_20260304_155209.is_tcyclic.csv,,91,0.46947500000001696
+10% formalin / no glycerin,10%-formalin-noglyc_11.46x4.25-9.85x4_20260304_155209.is_tcyclic.csv,,92,0.4728449999999498
+10% formalin / no glycerin,10%-formalin-noglyc_11.46x4.25-9.85x4_20260304_155209.is_tcyclic.csv,,93,0.4690299999999752
+10% formalin / no glycerin,10%-formalin-noglyc_11.46x4.25-9.85x4_20260304_155209.is_tcyclic.csv,,94,0.4697349999999858
+10% formalin / no glycerin,10%-formalin-noglyc_11.46x4.25-9.85x4_20260304_155209.is_tcyclic.csv,,95,0.46839000000002784
+10% formalin / no glycerin,10%-formalin-noglyc_11.46x4.25-9.85x4_20260304_155209.is_tcyclic.csv,,96,0.4671599999999785
+10% formalin / no glycerin,10%-formalin-noglyc_11.46x4.25-9.85x4_20260304_155209.is_tcyclic.csv,,97,0.47657999999998424
+10% formalin / no glycerin,10%-formalin-noglyc_11.46x4.25-9.85x4_20260304_155209.is_tcyclic.csv,,98,0.46900499999998146
+10% formalin / no glycerin,10%formalin-noglyc-9x4.16-6.89x2_20260304_154654.is_tcyclic.csv,,1,0.5052050000000037
+10% formalin / no glycerin,10%formalin-noglyc-9x4.16-6.89x2_20260304_154654.is_tcyclic.csv,,2,0.45083999999999946
+10% formalin / no glycerin,10%formalin-noglyc-9x4.16-6.89x2_20260304_154654.is_tcyclic.csv,,3,0.43354999999999677
+10% formalin / no glycerin,10%formalin-noglyc-9x4.16-6.89x2_20260304_154654.is_tcyclic.csv,,4,0.41934499999999275
+10% formalin / no glycerin,10%formalin-noglyc-9x4.16-6.89x2_20260304_154654.is_tcyclic.csv,,5,0.400100000000009
+10% formalin / no glycerin,10%formalin-noglyc-9x4.16-6.89x2_20260304_154654.is_tcyclic.csv,,6,0.3983699999999857
+10% formalin / no glycerin,10%formalin-noglyc-9x4.16-6.89x2_20260304_154654.is_tcyclic.csv,,7,0.39406999999999925
+10% formalin / no glycerin,10%formalin-noglyc-9x4.16-6.89x2_20260304_154654.is_tcyclic.csv,,8,0.3881099999999975
+10% formalin / no glycerin,10%formalin-noglyc-9x4.16-6.89x2_20260304_154654.is_tcyclic.csv,,9,0.3754899999999992
+10% formalin / no glycerin,10%formalin-noglyc-9x4.16-6.89x2_20260304_154654.is_tcyclic.csv,,10,0.3782149999999973
+10% formalin / no glycerin,10%formalin-noglyc-9x4.16-6.89x2_20260304_154654.is_tcyclic.csv,,11,0.37456000000000245
+10% formalin / no glycerin,10%formalin-noglyc-9x4.16-6.89x2_20260304_154654.is_tcyclic.csv,,12,0.3751850000000161
+10% formalin / no glycerin,10%formalin-noglyc-9x4.16-6.89x2_20260304_154654.is_tcyclic.csv,,13,0.3690600000000046
+10% formalin / no glycerin,10%formalin-noglyc-9x4.16-6.89x2_20260304_154654.is_tcyclic.csv,,14,0.3634050000000002
+10% formalin / no glycerin,10%formalin-noglyc-9x4.16-6.89x2_20260304_154654.is_tcyclic.csv,,15,0.3653549999999939
+10% formalin / no glycerin,10%formalin-noglyc-9x4.16-6.89x2_20260304_154654.is_tcyclic.csv,,16,0.3617050000000006
+10% formalin / no glycerin,10%formalin-noglyc-9x4.16-6.89x2_20260304_154654.is_tcyclic.csv,,17,0.35671000000000674
+10% formalin / no glycerin,10%formalin-noglyc-9x4.16-6.89x2_20260304_154654.is_tcyclic.csv,,18,0.3502900000000011
+10% formalin / no glycerin,10%formalin-noglyc-9x4.16-6.89x2_20260304_154654.is_tcyclic.csv,,19,0.35571500000000356
+10% formalin / no glycerin,10%formalin-noglyc-9x4.16-6.89x2_20260304_154654.is_tcyclic.csv,,20,0.35368999999997186
+10% formalin / no glycerin,10%formalin-noglyc-9x4.16-6.89x2_20260304_154654.is_tcyclic.csv,,21,0.3514650000000046
+10% formalin / no glycerin,10%formalin-noglyc-9x4.16-6.89x2_20260304_154654.is_tcyclic.csv,,22,0.3437499999999858
+10% formalin / no glycerin,10%formalin-noglyc-9x4.16-6.89x2_20260304_154654.is_tcyclic.csv,,23,0.3419499999999971
+10% formalin / no glycerin,10%formalin-noglyc-9x4.16-6.89x2_20260304_154654.is_tcyclic.csv,,24,0.3441800000000086
+10% formalin / no glycerin,10%formalin-noglyc-9x4.16-6.89x2_20260304_154654.is_tcyclic.csv,,25,0.3466200000000015
+10% formalin / no glycerin,10%formalin-noglyc-9x4.16-6.89x2_20260304_154654.is_tcyclic.csv,,26,0.34406000000001313
+10% formalin / no glycerin,10%formalin-noglyc-9x4.16-6.89x2_20260304_154654.is_tcyclic.csv,,27,0.33944999999999936
+10% formalin / no glycerin,10%formalin-noglyc-9x4.16-6.89x2_20260304_154654.is_tcyclic.csv,,28,0.3471750000000071
+10% formalin / no glycerin,10%formalin-noglyc-9x4.16-6.89x2_20260304_154654.is_tcyclic.csv,,29,0.34012500000000045
+10% formalin / no glycerin,10%formalin-noglyc-9x4.16-6.89x2_20260304_154654.is_tcyclic.csv,,30,0.33806999999998766
+10% formalin / no glycerin,10%formalin-noglyc-9x4.16-6.89x2_20260304_154654.is_tcyclic.csv,,31,0.34002500000001135
+10% formalin / no glycerin,10%formalin-noglyc-9x4.16-6.89x2_20260304_154654.is_tcyclic.csv,,32,0.34508500000001163
+10% formalin / no glycerin,10%formalin-noglyc-9x4.16-6.89x2_20260304_154654.is_tcyclic.csv,,33,0.3406150000000139
+10% formalin / no glycerin,10%formalin-noglyc-9x4.16-6.89x2_20260304_154654.is_tcyclic.csv,,34,0.33287500000000136
+10% formalin / no glycerin,10%formalin-noglyc-9x4.16-6.89x2_20260304_154654.is_tcyclic.csv,,35,0.33525500000001784
+10% formalin / no glycerin,10%formalin-noglyc-9x4.16-6.89x2_20260304_154654.is_tcyclic.csv,,36,0.32939000000001784
+10% formalin / no glycerin,10%formalin-noglyc-9x4.16-6.89x2_20260304_154654.is_tcyclic.csv,,37,0.33656000000000574
+10% formalin / no glycerin,10%formalin-noglyc-9x4.16-6.89x2_20260304_154654.is_tcyclic.csv,,38,0.3390899999999988
+10% formalin / no glycerin,10%formalin-noglyc-9x4.16-6.89x2_20260304_154654.is_tcyclic.csv,,39,0.33174499999998375
+10% formalin / no glycerin,10%formalin-noglyc-9x4.16-6.89x2_20260304_154654.is_tcyclic.csv,,40,0.33015499999999065
+10% formalin / no glycerin,10%formalin-noglyc-9x4.16-6.89x2_20260304_154654.is_tcyclic.csv,,41,0.32729000000000497
+10% formalin / no glycerin,10%formalin-noglyc-9x4.16-6.89x2_20260304_154654.is_tcyclic.csv,,42,0.3293849999999878
+10% formalin / no glycerin,10%formalin-noglyc-9x4.16-6.89x2_20260304_154654.is_tcyclic.csv,,43,0.3333899999999943
+10% formalin / no glycerin,10%formalin-noglyc-9x4.16-6.89x2_20260304_154654.is_tcyclic.csv,,44,0.32245499999999083
+10% formalin / no glycerin,10%formalin-noglyc-9x4.16-6.89x2_20260304_154654.is_tcyclic.csv,,45,0.3304900000000117
+10% formalin / no glycerin,10%formalin-noglyc-9x4.16-6.89x2_20260304_154654.is_tcyclic.csv,,46,0.3225999999999942
+10% formalin / no glycerin,10%formalin-noglyc-9x4.16-6.89x2_20260304_154654.is_tcyclic.csv,,47,0.33490000000000464
+10% formalin / no glycerin,10%formalin-noglyc-9x4.16-6.89x2_20260304_154654.is_tcyclic.csv,,48,0.3269599999999997
+10% formalin / no glycerin,10%formalin-noglyc-9x4.16-6.89x2_20260304_154654.is_tcyclic.csv,,49,0.3321849999999955
+10% formalin / no glycerin,10%formalin-noglyc-9x4.16-6.89x2_20260304_154654.is_tcyclic.csv,,50,0.3313700000000068
+10% formalin / no glycerin,10%formalin-noglyc-9x4.16-6.89x2_20260304_154654.is_tcyclic.csv,,51,0.32853000000001487
+10% formalin / no glycerin,10%formalin-noglyc-9x4.16-6.89x2_20260304_154654.is_tcyclic.csv,,52,0.32531499999998914
+10% formalin / no glycerin,10%formalin-noglyc-9x4.16-6.89x2_20260304_154654.is_tcyclic.csv,,53,0.3310199999999952
+10% formalin / no glycerin,10%formalin-noglyc-9x4.16-6.89x2_20260304_154654.is_tcyclic.csv,,54,0.31595000000001505
+10% formalin / no glycerin,10%formalin-noglyc-9x4.16-6.89x2_20260304_154654.is_tcyclic.csv,,55,0.3133200000000045
+10% formalin / no glycerin,10%formalin-noglyc-9x4.16-6.89x2_20260304_154654.is_tcyclic.csv,,56,0.31199000000000865
+10% formalin / no glycerin,10%formalin-noglyc-9x4.16-6.89x2_20260304_154654.is_tcyclic.csv,,57,0.3174800000000033
+10% formalin / no glycerin,10%formalin-noglyc-9x4.16-6.89x2_20260304_154654.is_tcyclic.csv,,58,0.3174049999999937
+10% formalin / no glycerin,10%formalin-noglyc-9x4.16-6.89x2_20260304_154654.is_tcyclic.csv,,59,0.32517500000000155
+10% formalin / no glycerin,10%formalin-noglyc-9x4.16-6.89x2_20260304_154654.is_tcyclic.csv,,60,0.30951500000000465
+10% formalin / no glycerin,10%formalin-noglyc-9x4.16-6.89x2_20260304_154654.is_tcyclic.csv,,61,0.3151500000000027
+10% formalin / no glycerin,10%formalin-noglyc-9x4.16-6.89x2_20260304_154654.is_tcyclic.csv,,62,0.31947499999999707
+10% formalin / no glycerin,10%formalin-noglyc-9x4.16-6.89x2_20260304_154654.is_tcyclic.csv,,63,0.3068150000000003
+10% formalin / no glycerin,10%formalin-noglyc-9x4.16-6.89x2_20260304_154654.is_tcyclic.csv,,64,0.32567000000000235
+10% formalin / no glycerin,10%formalin-noglyc-9x4.16-6.89x2_20260304_154654.is_tcyclic.csv,,65,0.31153500000002055
+10% formalin / no glycerin,10%formalin-noglyc-9x4.16-6.89x2_20260304_154654.is_tcyclic.csv,,66,0.31633999999999673
+10% formalin / no glycerin,10%formalin-noglyc-9x4.16-6.89x2_20260304_154654.is_tcyclic.csv,,67,0.31471500000000674
+10% formalin / no glycerin,10%formalin-noglyc-9x4.16-6.89x2_20260304_154654.is_tcyclic.csv,,68,0.3119749999999897
+10% formalin / no glycerin,10%formalin-noglyc-9x4.16-6.89x2_20260304_154654.is_tcyclic.csv,,69,0.3140799999999899
+10% formalin / no glycerin,10%formalin-noglyc-9x4.16-6.89x2_20260304_154654.is_tcyclic.csv,,70,0.31930499999999995
+10% formalin / no glycerin,10%formalin-noglyc-9x4.16-6.89x2_20260304_154654.is_tcyclic.csv,,71,0.3129299999999944
+10% formalin / no glycerin,10%formalin-noglyc-9x4.16-6.89x2_20260304_154654.is_tcyclic.csv,,72,0.31710499999999797
+10% formalin / no glycerin,10%formalin-noglyc-9x4.16-6.89x2_20260304_154654.is_tcyclic.csv,,73,0.3185450000000003
+10% formalin / no glycerin,10%formalin-noglyc-9x4.16-6.89x2_20260304_154654.is_tcyclic.csv,,74,0.3169950000000057
+10% formalin / no glycerin,10%formalin-noglyc-9x4.16-6.89x2_20260304_154654.is_tcyclic.csv,,75,0.3157899999999927
+10% formalin / no glycerin,10%formalin-noglyc-9x4.16-6.89x2_20260304_154654.is_tcyclic.csv,,76,0.31785500000000866
+10% formalin / no glycerin,10%formalin-noglyc-9x4.16-6.89x2_20260304_154654.is_tcyclic.csv,,77,0.31742500000000007
+10% formalin / no glycerin,10%formalin-noglyc-9x4.16-6.89x2_20260304_154654.is_tcyclic.csv,,78,0.31566000000000827
+10% formalin / no glycerin,10%formalin-noglyc-9x4.16-6.89x2_20260304_154654.is_tcyclic.csv,,79,0.31446000000001106
+10% formalin / no glycerin,10%formalin-noglyc-9x4.16-6.89x2_20260304_154654.is_tcyclic.csv,,80,0.3117200000000082
+10% formalin / no glycerin,10%formalin-noglyc-9x4.16-6.89x2_20260304_154654.is_tcyclic.csv,,81,0.3094350000000077
+10% formalin / no glycerin,10%formalin-noglyc-9x4.16-6.89x2_20260304_154654.is_tcyclic.csv,,82,0.3064799999999792
+10% formalin / no glycerin,10%formalin-noglyc-9x4.16-6.89x2_20260304_154654.is_tcyclic.csv,,83,0.3085999999999842
+10% formalin / no glycerin,10%formalin-noglyc-9x4.16-6.89x2_20260304_154654.is_tcyclic.csv,,84,0.3110150000000118
+10% formalin / no glycerin,10%formalin-noglyc-9x4.16-6.89x2_20260304_154654.is_tcyclic.csv,,85,0.30722000000000094
+10% formalin / no glycerin,10%formalin-noglyc-9x4.16-6.89x2_20260304_154654.is_tcyclic.csv,,86,0.3035250000000218
+10% formalin / no glycerin,10%formalin-noglyc-9x4.16-6.89x2_20260304_154654.is_tcyclic.csv,,87,0.3072249999999883
+10% formalin / no glycerin,10%formalin-noglyc-9x4.16-6.89x2_20260304_154654.is_tcyclic.csv,,88,0.29961500000000285
+10% formalin / no glycerin,10%formalin-noglyc-9x4.16-6.89x2_20260304_154654.is_tcyclic.csv,,89,0.29448499999999456
+10% formalin / no glycerin,10%formalin-noglyc-9x4.16-6.89x2_20260304_154654.is_tcyclic.csv,,90,0.3005100000000027
+10% formalin / no glycerin,10%formalin-noglyc-9x4.16-6.89x2_20260304_154654.is_tcyclic.csv,,91,0.2951050000000066
+10% formalin / no glycerin,10%formalin-noglyc-9x4.16-6.89x2_20260304_154654.is_tcyclic.csv,,92,0.3063950000000091
+10% formalin / no glycerin,10%formalin-noglyc-9x4.16-6.89x2_20260304_154654.is_tcyclic.csv,,93,0.30072000000001253
+10% formalin / no glycerin,10%formalin-noglyc-9x4.16-6.89x2_20260304_154654.is_tcyclic.csv,,94,0.30194500000000346
+10% formalin / no glycerin,10%formalin-noglyc-9x4.16-6.89x2_20260304_154654.is_tcyclic.csv,,95,0.29934000000001504
+10% formalin / no glycerin,10%formalin-noglyc-9x4.16-6.89x2_20260304_154654.is_tcyclic.csv,,96,0.29795500000000175
+10% formalin / no glycerin,10%formalin-noglyc-9x4.16-6.89x2_20260304_154654.is_tcyclic.csv,,97,0.29586500000000626
+10% formalin / no glycerin,10%formalin-noglyc-9x4.16-6.89x2_20260304_154654.is_tcyclic.csv,,98,0.30165999999999826
+10% formalin / glycerin,10%formalin-withglyc_11.55x6.26-12.20x3.25_20260304_160238.is_tcyclic.csv,,1,1.0069750000000397
+10% formalin / glycerin,10%formalin-withglyc_11.55x6.26-12.20x3.25_20260304_160238.is_tcyclic.csv,,2,0.8561349999999948
+10% formalin / glycerin,10%formalin-withglyc_11.55x6.26-12.20x3.25_20260304_160238.is_tcyclic.csv,,3,0.7770149999999774
+10% formalin / glycerin,10%formalin-withglyc_11.55x6.26-12.20x3.25_20260304_160238.is_tcyclic.csv,,4,0.7409900000000107
+10% formalin / glycerin,10%formalin-withglyc_11.55x6.26-12.20x3.25_20260304_160238.is_tcyclic.csv,,5,0.717394999999982
+10% formalin / glycerin,10%formalin-withglyc_11.55x6.26-12.20x3.25_20260304_160238.is_tcyclic.csv,,6,0.7000799999999856
+10% formalin / glycerin,10%formalin-withglyc_11.55x6.26-12.20x3.25_20260304_160238.is_tcyclic.csv,,7,0.6898849999999754
+10% formalin / glycerin,10%formalin-withglyc_11.55x6.26-12.20x3.25_20260304_160238.is_tcyclic.csv,,8,0.6642949999999814
+10% formalin / glycerin,10%formalin-withglyc_11.55x6.26-12.20x3.25_20260304_160238.is_tcyclic.csv,,9,0.6447399999999845
+10% formalin / glycerin,10%formalin-withglyc_11.55x6.26-12.20x3.25_20260304_160238.is_tcyclic.csv,,10,0.6139700000000232
+10% formalin / glycerin,10%formalin-withglyc_11.55x6.26-12.20x3.25_20260304_160238.is_tcyclic.csv,,11,0.6125100000000145
+10% formalin / glycerin,10%formalin-withglyc_11.55x6.26-12.20x3.25_20260304_160238.is_tcyclic.csv,,12,0.6032050000000027
+10% formalin / glycerin,10%formalin-withglyc_11.55x6.26-12.20x3.25_20260304_160238.is_tcyclic.csv,,13,0.6030299999999897
+10% formalin / glycerin,10%formalin-withglyc_11.55x6.26-12.20x3.25_20260304_160238.is_tcyclic.csv,,14,0.5995050000000219
+10% formalin / glycerin,10%formalin-withglyc_11.55x6.26-12.20x3.25_20260304_160238.is_tcyclic.csv,,15,0.5991450000000214
+10% formalin / glycerin,10%formalin-withglyc_11.55x6.26-12.20x3.25_20260304_160238.is_tcyclic.csv,,16,0.5930099999999925
+10% formalin / glycerin,10%formalin-withglyc_11.55x6.26-12.20x3.25_20260304_160238.is_tcyclic.csv,,17,0.594459999999998
+10% formalin / glycerin,10%formalin-withglyc_11.55x6.26-12.20x3.25_20260304_160238.is_tcyclic.csv,,18,0.5811950000000081
+10% formalin / glycerin,10%formalin-withglyc_11.55x6.26-12.20x3.25_20260304_160238.is_tcyclic.csv,,19,0.5711699999999951
+10% formalin / glycerin,10%formalin-withglyc_11.55x6.26-12.20x3.25_20260304_160238.is_tcyclic.csv,,20,0.5712750000000142
+10% formalin / glycerin,10%formalin-withglyc_11.55x6.26-12.20x3.25_20260304_160238.is_tcyclic.csv,,21,0.5779899999999714
+10% formalin / glycerin,10%formalin-withglyc_11.55x6.26-12.20x3.25_20260304_160238.is_tcyclic.csv,,22,0.5800699999999779
+10% formalin / glycerin,10%formalin-withglyc_11.55x6.26-12.20x3.25_20260304_160238.is_tcyclic.csv,,23,0.5793500000000336
+10% formalin / glycerin,10%formalin-withglyc_11.55x6.26-12.20x3.25_20260304_160238.is_tcyclic.csv,,24,0.5690799999999854
+10% formalin / glycerin,10%formalin-withglyc_11.55x6.26-12.20x3.25_20260304_160238.is_tcyclic.csv,,25,0.5644150000000252
+10% formalin / glycerin,10%formalin-withglyc_11.55x6.26-12.20x3.25_20260304_160238.is_tcyclic.csv,,26,0.5599349999999959
+10% formalin / glycerin,10%formalin-withglyc_11.55x6.26-12.20x3.25_20260304_160238.is_tcyclic.csv,,27,0.5600600000000213
+10% formalin / glycerin,10%formalin-withglyc_11.55x6.26-12.20x3.25_20260304_160238.is_tcyclic.csv,,28,0.5631500000000074
+10% formalin / glycerin,10%formalin-withglyc_11.55x6.26-12.20x3.25_20260304_160238.is_tcyclic.csv,,29,0.5617399999999861
+10% formalin / glycerin,10%formalin-withglyc_11.55x6.26-12.20x3.25_20260304_160238.is_tcyclic.csv,,30,0.5586449999999559
+10% formalin / glycerin,10%formalin-withglyc_11.55x6.26-12.20x3.25_20260304_160238.is_tcyclic.csv,,31,0.5584900000000061
+10% formalin / glycerin,10%formalin-withglyc_11.55x6.26-12.20x3.25_20260304_160238.is_tcyclic.csv,,32,0.5555850000000078
+10% formalin / glycerin,10%formalin-withglyc_11.55x6.26-12.20x3.25_20260304_160238.is_tcyclic.csv,,33,0.5535899999999856
+10% formalin / glycerin,10%formalin-withglyc_11.55x6.26-12.20x3.25_20260304_160238.is_tcyclic.csv,,34,0.5559700000000021
+10% formalin / glycerin,10%formalin-withglyc_11.55x6.26-12.20x3.25_20260304_160238.is_tcyclic.csv,,35,0.5566450000000032
+10% formalin / glycerin,10%formalin-withglyc_11.55x6.26-12.20x3.25_20260304_160238.is_tcyclic.csv,,36,0.5517399999999952
+10% formalin / glycerin,10%formalin-withglyc_11.55x6.26-12.20x3.25_20260304_160238.is_tcyclic.csv,,37,0.5536199999999667
+10% formalin / glycerin,10%formalin-withglyc_11.55x6.26-12.20x3.25_20260304_160238.is_tcyclic.csv,,38,0.546594999999968
+10% formalin / glycerin,10%formalin-withglyc_11.55x6.26-12.20x3.25_20260304_160238.is_tcyclic.csv,,39,0.5479600000000175
+10% formalin / glycerin,10%formalin-withglyc_11.55x6.26-12.20x3.25_20260304_160238.is_tcyclic.csv,,40,0.5463100000000338
+10% formalin / glycerin,10%formalin-withglyc_11.55x6.26-12.20x3.25_20260304_160238.is_tcyclic.csv,,41,0.5429400000000157
+10% formalin / glycerin,10%formalin-withglyc_11.55x6.26-12.20x3.25_20260304_160238.is_tcyclic.csv,,42,0.5448300000000188
+10% formalin / glycerin,10%formalin-withglyc_11.55x6.26-12.20x3.25_20260304_160238.is_tcyclic.csv,,43,0.5415699999999788
+10% formalin / glycerin,10%formalin-withglyc_11.55x6.26-12.20x3.25_20260304_160238.is_tcyclic.csv,,44,0.544479999999993
+10% formalin / glycerin,10%formalin-withglyc_11.55x6.26-12.20x3.25_20260304_160238.is_tcyclic.csv,,45,0.5419599999999889
+10% formalin / glycerin,10%formalin-withglyc_11.55x6.26-12.20x3.25_20260304_160238.is_tcyclic.csv,,46,0.5387749999999869
+10% formalin / glycerin,10%formalin-withglyc_11.55x6.26-12.20x3.25_20260304_160238.is_tcyclic.csv,,47,0.545880000000011
+10% formalin / glycerin,10%formalin-withglyc_11.55x6.26-12.20x3.25_20260304_160238.is_tcyclic.csv,,48,0.5480650000000082
+10% formalin / glycerin,10%formalin-withglyc_11.55x6.26-12.20x3.25_20260304_160238.is_tcyclic.csv,,49,0.5421200000000113
+10% formalin / glycerin,10%formalin-withglyc_11.55x6.26-12.20x3.25_20260304_160238.is_tcyclic.csv,,50,0.5427049999999838
+10% formalin / glycerin,10%formalin-withglyc_11.55x6.26-12.20x3.25_20260304_160238.is_tcyclic.csv,,51,0.5403799999999706
+10% formalin / glycerin,10%formalin-withglyc_11.55x6.26-12.20x3.25_20260304_160238.is_tcyclic.csv,,52,0.5417299999999727
+10% formalin / glycerin,10%formalin-withglyc_11.55x6.26-12.20x3.25_20260304_160238.is_tcyclic.csv,,53,0.529404999999997
+10% formalin / glycerin,10%formalin-withglyc_11.55x6.26-12.20x3.25_20260304_160238.is_tcyclic.csv,,54,0.535349999999994
+10% formalin / glycerin,10%formalin-withglyc_11.55x6.26-12.20x3.25_20260304_160238.is_tcyclic.csv,,55,0.5310199999999838
+10% formalin / glycerin,10%formalin-withglyc_11.55x6.26-12.20x3.25_20260304_160238.is_tcyclic.csv,,56,0.5305649999999957
+10% formalin / glycerin,10%formalin-withglyc_11.55x6.26-12.20x3.25_20260304_160238.is_tcyclic.csv,,57,0.5316000000000258
+10% formalin / glycerin,10%formalin-withglyc_11.55x6.26-12.20x3.25_20260304_160238.is_tcyclic.csv,,58,0.5304499999999734
+10% formalin / glycerin,10%formalin-withglyc_11.55x6.26-12.20x3.25_20260304_160238.is_tcyclic.csv,,59,0.5318250000000262
+10% formalin / glycerin,10%formalin-withglyc_11.55x6.26-12.20x3.25_20260304_160238.is_tcyclic.csv,,60,0.5294399999999655
+10% formalin / glycerin,10%formalin-withglyc_11.55x6.26-12.20x3.25_20260304_160238.is_tcyclic.csv,,61,0.5297249999999849
+10% formalin / glycerin,10%formalin-withglyc_11.55x6.26-12.20x3.25_20260304_160238.is_tcyclic.csv,,62,0.5332149999999842
+10% formalin / glycerin,10%formalin-withglyc_11.55x6.26-12.20x3.25_20260304_160238.is_tcyclic.csv,,63,0.5264799999999923
+10% formalin / glycerin,10%formalin-withglyc_11.55x6.26-12.20x3.25_20260304_160238.is_tcyclic.csv,,64,0.5279600000000073
+10% formalin / glycerin,10%formalin-withglyc_11.55x6.26-12.20x3.25_20260304_160238.is_tcyclic.csv,,65,0.529500000000013
+10% formalin / glycerin,10%formalin-withglyc_11.55x6.26-12.20x3.25_20260304_160238.is_tcyclic.csv,,66,0.5234550000000127
+10% formalin / glycerin,10%formalin-withglyc_11.55x6.26-12.20x3.25_20260304_160238.is_tcyclic.csv,,67,0.5205950000000144
+10% formalin / glycerin,10%formalin-withglyc_11.55x6.26-12.20x3.25_20260304_160238.is_tcyclic.csv,,68,0.5264750000000049
+10% formalin / glycerin,10%formalin-withglyc_11.55x6.26-12.20x3.25_20260304_160238.is_tcyclic.csv,,69,0.5194300000000567
+10% formalin / glycerin,10%formalin-withglyc_11.55x6.26-12.20x3.25_20260304_160238.is_tcyclic.csv,,70,0.514080000000007
+10% formalin / glycerin,10%formalin-withglyc_11.55x6.26-12.20x3.25_20260304_160238.is_tcyclic.csv,,71,0.5143949999999791
+10% formalin / glycerin,10%formalin-withglyc_11.55x6.26-12.20x3.25_20260304_160238.is_tcyclic.csv,,72,0.511650000000003
+10% formalin / glycerin,10%formalin-withglyc_11.55x6.26-12.20x3.25_20260304_160238.is_tcyclic.csv,,73,0.5088749999999891
+10% formalin / glycerin,10%formalin-withglyc_11.55x6.26-12.20x3.25_20260304_160238.is_tcyclic.csv,,74,0.5105400000000202
+10% formalin / glycerin,10%formalin-withglyc_11.55x6.26-12.20x3.25_20260304_160238.is_tcyclic.csv,,75,0.501704999999987
+10% formalin / glycerin,10%formalin-withglyc_11.55x6.26-12.20x3.25_20260304_160238.is_tcyclic.csv,,76,0.5058750000000032
+10% formalin / glycerin,10%formalin-withglyc_11.55x6.26-12.20x3.25_20260304_160238.is_tcyclic.csv,,77,0.5098600000000033
+10% formalin / glycerin,10%formalin-withglyc_11.55x6.26-12.20x3.25_20260304_160238.is_tcyclic.csv,,78,0.5018650000000093
+10% formalin / glycerin,10%formalin-withglyc_11.55x6.26-12.20x3.25_20260304_160238.is_tcyclic.csv,,79,0.5026249999999948
+10% formalin / glycerin,10%formalin-withglyc_11.55x6.26-12.20x3.25_20260304_160238.is_tcyclic.csv,,80,0.5068200000000047
+10% formalin / glycerin,10%formalin-withglyc_11.55x6.26-12.20x3.25_20260304_160238.is_tcyclic.csv,,81,0.5051149999999893
+10% formalin / glycerin,10%formalin-withglyc_11.55x6.26-12.20x3.25_20260304_160238.is_tcyclic.csv,,82,0.5039399999999716
+10% formalin / glycerin,10%formalin-withglyc_11.55x6.26-12.20x3.25_20260304_160238.is_tcyclic.csv,,83,0.49962999999999624
+10% formalin / glycerin,10%formalin-withglyc_11.55x6.26-12.20x3.25_20260304_160238.is_tcyclic.csv,,84,0.5068100000000015
+10% formalin / glycerin,10%formalin-withglyc_11.55x6.26-12.20x3.25_20260304_160238.is_tcyclic.csv,,85,0.5054300000000183
+10% formalin / glycerin,10%formalin-withglyc_11.55x6.26-12.20x3.25_20260304_160238.is_tcyclic.csv,,86,0.5031000000000176
+10% formalin / glycerin,10%formalin-withglyc_11.55x6.26-12.20x3.25_20260304_160238.is_tcyclic.csv,,87,0.5072550000000433
+10% formalin / glycerin,10%formalin-withglyc_11.55x6.26-12.20x3.25_20260304_160238.is_tcyclic.csv,,88,0.5081500000000005
+10% formalin / glycerin,10%formalin-withglyc_11.55x6.26-12.20x3.25_20260304_160238.is_tcyclic.csv,,89,0.5029200000000174
+10% formalin / glycerin,10%formalin-withglyc_11.55x6.26-12.20x3.25_20260304_160238.is_tcyclic.csv,,90,0.49895999999998253
+10% formalin / glycerin,10%formalin-withglyc_11.55x6.26-12.20x3.25_20260304_160238.is_tcyclic.csv,,91,0.5036499999999648
+10% formalin / glycerin,10%formalin-withglyc_11.55x6.26-12.20x3.25_20260304_160238.is_tcyclic.csv,,92,0.4981949999999813
+10% formalin / glycerin,10%formalin-withglyc_11.55x6.26-12.20x3.25_20260304_160238.is_tcyclic.csv,,93,0.49349999999995475
+10% formalin / glycerin,10%formalin-withglyc_11.55x6.26-12.20x3.25_20260304_160238.is_tcyclic.csv,,94,0.4967749999999569
+10% formalin / glycerin,10%formalin-withglyc_11.55x6.26-12.20x3.25_20260304_160238.is_tcyclic.csv,,95,0.4940950000000157
+10% formalin / glycerin,10%formalin-withglyc_11.55x6.26-12.20x3.25_20260304_160238.is_tcyclic.csv,,96,0.49970000000001846
+10% formalin / glycerin,10%formalin-withglyc_11.55x6.26-12.20x3.25_20260304_160238.is_tcyclic.csv,,97,0.4936350000000118
+10% formalin / glycerin,10%formalin-withglyc_11.55x6.26-12.20x3.25_20260304_160238.is_tcyclic.csv,,98,0.49764500000000567
+10% formalin / glycerin,10%formalin-withglycerin_9.14x4.85-7.22x2.45_20260304_161219.is_tcyclic.csv,,1,0.9543099999999924
+10% formalin / glycerin,10%formalin-withglycerin_9.14x4.85-7.22x2.45_20260304_161219.is_tcyclic.csv,,2,0.8658750000000168
+10% formalin / glycerin,10%formalin-withglycerin_9.14x4.85-7.22x2.45_20260304_161219.is_tcyclic.csv,,3,0.8177550000000053
+10% formalin / glycerin,10%formalin-withglycerin_9.14x4.85-7.22x2.45_20260304_161219.is_tcyclic.csv,,4,0.7692600000000311
+10% formalin / glycerin,10%formalin-withglycerin_9.14x4.85-7.22x2.45_20260304_161219.is_tcyclic.csv,,5,0.7564899999999852
+10% formalin / glycerin,10%formalin-withglycerin_9.14x4.85-7.22x2.45_20260304_161219.is_tcyclic.csv,,6,0.7256900000000144
+10% formalin / glycerin,10%formalin-withglycerin_9.14x4.85-7.22x2.45_20260304_161219.is_tcyclic.csv,,7,0.7048450000000059
+10% formalin / glycerin,10%formalin-withglycerin_9.14x4.85-7.22x2.45_20260304_161219.is_tcyclic.csv,,8,0.6972249999999747
+10% formalin / glycerin,10%formalin-withglycerin_9.14x4.85-7.22x2.45_20260304_161219.is_tcyclic.csv,,9,0.6855899999999906
+10% formalin / glycerin,10%formalin-withglycerin_9.14x4.85-7.22x2.45_20260304_161219.is_tcyclic.csv,,10,0.6784749999999917
+10% formalin / glycerin,10%formalin-withglycerin_9.14x4.85-7.22x2.45_20260304_161219.is_tcyclic.csv,,11,0.668075000000016
+10% formalin / glycerin,10%formalin-withglycerin_9.14x4.85-7.22x2.45_20260304_161219.is_tcyclic.csv,,12,0.6548049999999535
+10% formalin / glycerin,10%formalin-withglycerin_9.14x4.85-7.22x2.45_20260304_161219.is_tcyclic.csv,,13,0.654484999999994
+10% formalin / glycerin,10%formalin-withglycerin_9.14x4.85-7.22x2.45_20260304_161219.is_tcyclic.csv,,14,0.6478749999999991
+10% formalin / glycerin,10%formalin-withglycerin_9.14x4.85-7.22x2.45_20260304_161219.is_tcyclic.csv,,15,0.645385000000033
+10% formalin / glycerin,10%formalin-withglycerin_9.14x4.85-7.22x2.45_20260304_161219.is_tcyclic.csv,,16,0.6429799999999943
+10% formalin / glycerin,10%formalin-withglycerin_9.14x4.85-7.22x2.45_20260304_161219.is_tcyclic.csv,,17,0.6331150000000036
+10% formalin / glycerin,10%formalin-withglycerin_9.14x4.85-7.22x2.45_20260304_161219.is_tcyclic.csv,,18,0.6191900000000032
+10% formalin / glycerin,10%formalin-withglycerin_9.14x4.85-7.22x2.45_20260304_161219.is_tcyclic.csv,,19,0.6280650000000492
+10% formalin / glycerin,10%formalin-withglycerin_9.14x4.85-7.22x2.45_20260304_161219.is_tcyclic.csv,,20,0.6251449999999465
+10% formalin / glycerin,10%formalin-withglycerin_9.14x4.85-7.22x2.45_20260304_161219.is_tcyclic.csv,,21,0.6075900000000161
+10% formalin / glycerin,10%formalin-withglycerin_9.14x4.85-7.22x2.45_20260304_161219.is_tcyclic.csv,,22,0.605464999999981
+10% formalin / glycerin,10%formalin-withglycerin_9.14x4.85-7.22x2.45_20260304_161219.is_tcyclic.csv,,23,0.5999349999999879
+10% formalin / glycerin,10%formalin-withglycerin_9.14x4.85-7.22x2.45_20260304_161219.is_tcyclic.csv,,24,0.5962700000000041
+10% formalin / glycerin,10%formalin-withglycerin_9.14x4.85-7.22x2.45_20260304_161219.is_tcyclic.csv,,25,0.5811199999999985
+10% formalin / glycerin,10%formalin-withglycerin_9.14x4.85-7.22x2.45_20260304_161219.is_tcyclic.csv,,26,0.5884499999999946
+10% formalin / glycerin,10%formalin-withglycerin_9.14x4.85-7.22x2.45_20260304_161219.is_tcyclic.csv,,27,0.5816149999999709
+10% formalin / glycerin,10%formalin-withglycerin_9.14x4.85-7.22x2.45_20260304_161219.is_tcyclic.csv,,28,0.5726449999999943
+10% formalin / glycerin,10%formalin-withglycerin_9.14x4.85-7.22x2.45_20260304_161219.is_tcyclic.csv,,29,0.5671350000000075
+10% formalin / glycerin,10%formalin-withglycerin_9.14x4.85-7.22x2.45_20260304_161219.is_tcyclic.csv,,30,0.5675950000000114
+10% formalin / glycerin,10%formalin-withglycerin_9.14x4.85-7.22x2.45_20260304_161219.is_tcyclic.csv,,31,0.5635500000000206
+10% formalin / glycerin,10%formalin-withglycerin_9.14x4.85-7.22x2.45_20260304_161219.is_tcyclic.csv,,32,0.5655199999999923
+10% formalin / glycerin,10%formalin-withglycerin_9.14x4.85-7.22x2.45_20260304_161219.is_tcyclic.csv,,33,0.554869999999994
+10% formalin / glycerin,10%formalin-withglycerin_9.14x4.85-7.22x2.45_20260304_161219.is_tcyclic.csv,,34,0.5582800000000248
+10% formalin / glycerin,10%formalin-withglycerin_9.14x4.85-7.22x2.45_20260304_161219.is_tcyclic.csv,,35,0.558195000000012
+10% formalin / glycerin,10%formalin-withglycerin_9.14x4.85-7.22x2.45_20260304_161219.is_tcyclic.csv,,36,0.5549500000000194
+10% formalin / glycerin,10%formalin-withglycerin_9.14x4.85-7.22x2.45_20260304_161219.is_tcyclic.csv,,37,0.5450749999999971
+10% formalin / glycerin,10%formalin-withglycerin_9.14x4.85-7.22x2.45_20260304_161219.is_tcyclic.csv,,38,0.5415950000000294
+10% formalin / glycerin,10%formalin-withglycerin_9.14x4.85-7.22x2.45_20260304_161219.is_tcyclic.csv,,39,0.5440099999999859
+10% formalin / glycerin,10%formalin-withglycerin_9.14x4.85-7.22x2.45_20260304_161219.is_tcyclic.csv,,40,0.5431049999999971
+10% formalin / glycerin,10%formalin-withglycerin_9.14x4.85-7.22x2.45_20260304_161219.is_tcyclic.csv,,41,0.5453150000000164
+10% formalin / glycerin,10%formalin-withglycerin_9.14x4.85-7.22x2.45_20260304_161219.is_tcyclic.csv,,42,0.5458349999999825
+10% formalin / glycerin,10%formalin-withglycerin_9.14x4.85-7.22x2.45_20260304_161219.is_tcyclic.csv,,43,0.543120000000016
+10% formalin / glycerin,10%formalin-withglycerin_9.14x4.85-7.22x2.45_20260304_161219.is_tcyclic.csv,,44,0.5384199999999737
+10% formalin / glycerin,10%formalin-withglycerin_9.14x4.85-7.22x2.45_20260304_161219.is_tcyclic.csv,,45,0.5434250000000134
+10% formalin / glycerin,10%formalin-withglycerin_9.14x4.85-7.22x2.45_20260304_161219.is_tcyclic.csv,,46,0.5358600000000138
+10% formalin / glycerin,10%formalin-withglycerin_9.14x4.85-7.22x2.45_20260304_161219.is_tcyclic.csv,,47,0.5362149999999701
+10% formalin / glycerin,10%formalin-withglycerin_9.14x4.85-7.22x2.45_20260304_161219.is_tcyclic.csv,,48,0.5421699999999987
+10% formalin / glycerin,10%formalin-withglycerin_9.14x4.85-7.22x2.45_20260304_161219.is_tcyclic.csv,,49,0.5383249999999862
+10% formalin / glycerin,10%formalin-withglycerin_9.14x4.85-7.22x2.45_20260304_161219.is_tcyclic.csv,,50,0.53676999999999
+10% formalin / glycerin,10%formalin-withglycerin_9.14x4.85-7.22x2.45_20260304_161219.is_tcyclic.csv,,51,0.5302549999999826
+10% formalin / glycerin,10%formalin-withglycerin_9.14x4.85-7.22x2.45_20260304_161219.is_tcyclic.csv,,52,0.5302850000000205
+10% formalin / glycerin,10%formalin-withglycerin_9.14x4.85-7.22x2.45_20260304_161219.is_tcyclic.csv,,53,0.5275000000000034
+10% formalin / glycerin,10%formalin-withglycerin_9.14x4.85-7.22x2.45_20260304_161219.is_tcyclic.csv,,54,0.5373349999999846
+10% formalin / glycerin,10%formalin-withglycerin_9.14x4.85-7.22x2.45_20260304_161219.is_tcyclic.csv,,55,0.5306750000000306
+10% formalin / glycerin,10%formalin-withglycerin_9.14x4.85-7.22x2.45_20260304_161219.is_tcyclic.csv,,56,0.5274599999999907
+10% formalin / glycerin,10%formalin-withglycerin_9.14x4.85-7.22x2.45_20260304_161219.is_tcyclic.csv,,57,0.5309500000000185
+10% formalin / glycerin,10%formalin-withglycerin_9.14x4.85-7.22x2.45_20260304_161219.is_tcyclic.csv,,58,0.5363649999999893
+10% formalin / glycerin,10%formalin-withglycerin_9.14x4.85-7.22x2.45_20260304_161219.is_tcyclic.csv,,59,0.530179999999973
+10% formalin / glycerin,10%formalin-withglycerin_9.14x4.85-7.22x2.45_20260304_161219.is_tcyclic.csv,,60,0.5296649999999943
+10% formalin / glycerin,10%formalin-withglycerin_9.14x4.85-7.22x2.45_20260304_161219.is_tcyclic.csv,,61,0.5301100000000076
+10% formalin / glycerin,10%formalin-withglycerin_9.14x4.85-7.22x2.45_20260304_161219.is_tcyclic.csv,,62,0.5352749999999844
+10% formalin / glycerin,10%formalin-withglycerin_9.14x4.85-7.22x2.45_20260304_161219.is_tcyclic.csv,,63,0.5282900000000268
+10% formalin / glycerin,10%formalin-withglycerin_9.14x4.85-7.22x2.45_20260304_161219.is_tcyclic.csv,,64,0.533725000000004
+10% formalin / glycerin,10%formalin-withglycerin_9.14x4.85-7.22x2.45_20260304_161219.is_tcyclic.csv,,65,0.5282199999999762
+10% formalin / glycerin,10%formalin-withglycerin_9.14x4.85-7.22x2.45_20260304_161219.is_tcyclic.csv,,66,0.524675000000002
+10% formalin / glycerin,10%formalin-withglycerin_9.14x4.85-7.22x2.45_20260304_161219.is_tcyclic.csv,,67,0.5246449999999925
+10% formalin / glycerin,10%formalin-withglycerin_9.14x4.85-7.22x2.45_20260304_161219.is_tcyclic.csv,,68,0.5239050000000134
+10% formalin / glycerin,10%formalin-withglycerin_9.14x4.85-7.22x2.45_20260304_161219.is_tcyclic.csv,,69,0.5199400000000196
+10% formalin / glycerin,10%formalin-withglycerin_9.14x4.85-7.22x2.45_20260304_161219.is_tcyclic.csv,,70,0.5269700000000057
+10% formalin / glycerin,10%formalin-withglycerin_9.14x4.85-7.22x2.45_20260304_161219.is_tcyclic.csv,,71,0.5208700000000022
+10% formalin / glycerin,10%formalin-withglycerin_9.14x4.85-7.22x2.45_20260304_161219.is_tcyclic.csv,,72,0.5210850000000562
+10% formalin / glycerin,10%formalin-withglycerin_9.14x4.85-7.22x2.45_20260304_161219.is_tcyclic.csv,,73,0.5246400000000051
+10% formalin / glycerin,10%formalin-withglycerin_9.14x4.85-7.22x2.45_20260304_161219.is_tcyclic.csv,,74,0.5131600000000276
+10% formalin / glycerin,10%formalin-withglycerin_9.14x4.85-7.22x2.45_20260304_161219.is_tcyclic.csv,,75,0.5123949999999979
+10% formalin / glycerin,10%formalin-withglycerin_9.14x4.85-7.22x2.45_20260304_161219.is_tcyclic.csv,,76,0.510530000000017
+10% formalin / glycerin,10%formalin-withglycerin_9.14x4.85-7.22x2.45_20260304_161219.is_tcyclic.csv,,77,0.5156499999999937
+10% formalin / glycerin,10%formalin-withglycerin_9.14x4.85-7.22x2.45_20260304_161219.is_tcyclic.csv,,78,0.513575000000003
+10% formalin / glycerin,10%formalin-withglycerin_9.14x4.85-7.22x2.45_20260304_161219.is_tcyclic.csv,,79,0.5141650000000197
+10% formalin / glycerin,10%formalin-withglycerin_9.14x4.85-7.22x2.45_20260304_161219.is_tcyclic.csv,,80,0.5170650000000023
+10% formalin / glycerin,10%formalin-withglycerin_9.14x4.85-7.22x2.45_20260304_161219.is_tcyclic.csv,,81,0.5032199999999989
+10% formalin / glycerin,10%formalin-withglycerin_9.14x4.85-7.22x2.45_20260304_161219.is_tcyclic.csv,,82,0.5075150000000122
+10% formalin / glycerin,10%formalin-withglycerin_9.14x4.85-7.22x2.45_20260304_161219.is_tcyclic.csv,,83,0.498864999999995
+10% formalin / glycerin,10%formalin-withglycerin_9.14x4.85-7.22x2.45_20260304_161219.is_tcyclic.csv,,84,0.49665499999997564
+10% formalin / glycerin,10%formalin-withglycerin_9.14x4.85-7.22x2.45_20260304_161219.is_tcyclic.csv,,85,0.500364999999988
+10% formalin / glycerin,10%formalin-withglycerin_9.14x4.85-7.22x2.45_20260304_161219.is_tcyclic.csv,,86,0.5015500000000088
+10% formalin / glycerin,10%formalin-withglycerin_9.14x4.85-7.22x2.45_20260304_161219.is_tcyclic.csv,,87,0.4984050000000195
+10% formalin / glycerin,10%formalin-withglycerin_9.14x4.85-7.22x2.45_20260304_161219.is_tcyclic.csv,,88,0.502065000000016
+10% formalin / glycerin,10%formalin-withglycerin_9.14x4.85-7.22x2.45_20260304_161219.is_tcyclic.csv,,89,0.49948499999999285
+10% formalin / glycerin,10%formalin-withglycerin_9.14x4.85-7.22x2.45_20260304_161219.is_tcyclic.csv,,90,0.5051299999999799
+10% formalin / glycerin,10%formalin-withglycerin_9.14x4.85-7.22x2.45_20260304_161219.is_tcyclic.csv,,91,0.5071949999999958
+10% formalin / glycerin,10%formalin-withglycerin_9.14x4.85-7.22x2.45_20260304_161219.is_tcyclic.csv,,92,0.5027799999999729
+10% formalin / glycerin,10%formalin-withglycerin_9.14x4.85-7.22x2.45_20260304_161219.is_tcyclic.csv,,93,0.4999699999999905
+10% formalin / glycerin,10%formalin-withglycerin_9.14x4.85-7.22x2.45_20260304_161219.is_tcyclic.csv,,94,0.49884999999997603
+10% formalin / glycerin,10%formalin-withglycerin_9.14x4.85-7.22x2.45_20260304_161219.is_tcyclic.csv,,95,0.4959949999999935
+10% formalin / glycerin,10%formalin-withglycerin_9.14x4.85-7.22x2.45_20260304_161219.is_tcyclic.csv,,96,0.4982650000000035
+10% formalin / glycerin,10%formalin-withglycerin_9.14x4.85-7.22x2.45_20260304_161219.is_tcyclic.csv,,97,0.4967049999999915
+10% formalin / glycerin,10%formalin-withglycerin_9.14x4.85-7.22x2.45_20260304_161219.is_tcyclic.csv,,98,0.49566499999997404
+10% formalin / glycerin,10%formalin_withglycerin_13.28x5.3-9x2.820260304_162515.is_tcyclic.csv,,1,1.0344750000000005
+10% formalin / glycerin,10%formalin_withglycerin_13.28x5.3-9x2.820260304_162515.is_tcyclic.csv,,2,0.9685000000000059
+10% formalin / glycerin,10%formalin_withglycerin_13.28x5.3-9x2.820260304_162515.is_tcyclic.csv,,3,0.8930000000000007
+10% formalin / glycerin,10%formalin_withglycerin_13.28x5.3-9x2.820260304_162515.is_tcyclic.csv,,4,0.855329999999995
+10% formalin / glycerin,10%formalin_withglycerin_13.28x5.3-9x2.820260304_162515.is_tcyclic.csv,,5,0.8237000000000023
+10% formalin / glycerin,10%formalin_withglycerin_13.28x5.3-9x2.820260304_162515.is_tcyclic.csv,,6,0.7889399999999682
+10% formalin / glycerin,10%formalin_withglycerin_13.28x5.3-9x2.820260304_162515.is_tcyclic.csv,,7,0.75583000000006
+10% formalin / glycerin,10%formalin_withglycerin_13.28x5.3-9x2.820260304_162515.is_tcyclic.csv,,8,0.7406599999999912
+10% formalin / glycerin,10%formalin_withglycerin_13.28x5.3-9x2.820260304_162515.is_tcyclic.csv,,9,0.723134999999985
+10% formalin / glycerin,10%formalin_withglycerin_13.28x5.3-9x2.820260304_162515.is_tcyclic.csv,,10,0.7104150000000118
+10% formalin / glycerin,10%formalin_withglycerin_13.28x5.3-9x2.820260304_162515.is_tcyclic.csv,,11,0.6930949999999712
+10% formalin / glycerin,10%formalin_withglycerin_13.28x5.3-9x2.820260304_162515.is_tcyclic.csv,,12,0.6753999999999962
+10% formalin / glycerin,10%formalin_withglycerin_13.28x5.3-9x2.820260304_162515.is_tcyclic.csv,,13,0.6628900000000328
+10% formalin / glycerin,10%formalin_withglycerin_13.28x5.3-9x2.820260304_162515.is_tcyclic.csv,,14,0.6603699999999719
+10% formalin / glycerin,10%formalin_withglycerin_13.28x5.3-9x2.820260304_162515.is_tcyclic.csv,,15,0.6552800000000047
+10% formalin / glycerin,10%formalin_withglycerin_13.28x5.3-9x2.820260304_162515.is_tcyclic.csv,,16,0.6485050000000001
+10% formalin / glycerin,10%formalin_withglycerin_13.28x5.3-9x2.820260304_162515.is_tcyclic.csv,,17,0.640199999999993
+10% formalin / glycerin,10%formalin_withglycerin_13.28x5.3-9x2.820260304_162515.is_tcyclic.csv,,18,0.6289200000000221
+10% formalin / glycerin,10%formalin_withglycerin_13.28x5.3-9x2.820260304_162515.is_tcyclic.csv,,19,0.6265400000000056
+10% formalin / glycerin,10%formalin_withglycerin_13.28x5.3-9x2.820260304_162515.is_tcyclic.csv,,20,0.6191400000000158
+10% formalin / glycerin,10%formalin_withglycerin_13.28x5.3-9x2.820260304_162515.is_tcyclic.csv,,21,0.6140199999999822
+10% formalin / glycerin,10%formalin_withglycerin_13.28x5.3-9x2.820260304_162515.is_tcyclic.csv,,22,0.6089649999999835
+10% formalin / glycerin,10%formalin_withglycerin_13.28x5.3-9x2.820260304_162515.is_tcyclic.csv,,23,0.6018699999999626
+10% formalin / glycerin,10%formalin_withglycerin_13.28x5.3-9x2.820260304_162515.is_tcyclic.csv,,24,0.6055099999999811
+10% formalin / glycerin,10%formalin_withglycerin_13.28x5.3-9x2.820260304_162515.is_tcyclic.csv,,25,0.6084299999999985
+10% formalin / glycerin,10%formalin_withglycerin_13.28x5.3-9x2.820260304_162515.is_tcyclic.csv,,26,0.61005499999996
+10% formalin / glycerin,10%formalin_withglycerin_13.28x5.3-9x2.820260304_162515.is_tcyclic.csv,,27,0.6002750000000106
+10% formalin / glycerin,10%formalin_withglycerin_13.28x5.3-9x2.820260304_162515.is_tcyclic.csv,,28,0.6121599999999887
+10% formalin / glycerin,10%formalin_withglycerin_13.28x5.3-9x2.820260304_162515.is_tcyclic.csv,,29,0.597580000000022
+10% formalin / glycerin,10%formalin_withglycerin_13.28x5.3-9x2.820260304_162515.is_tcyclic.csv,,30,0.6027449999999988
+10% formalin / glycerin,10%formalin_withglycerin_13.28x5.3-9x2.820260304_162515.is_tcyclic.csv,,31,0.6081200000000138
+10% formalin / glycerin,10%formalin_withglycerin_13.28x5.3-9x2.820260304_162515.is_tcyclic.csv,,32,0.5983500000000106
+10% formalin / glycerin,10%formalin_withglycerin_13.28x5.3-9x2.820260304_162515.is_tcyclic.csv,,33,0.5993649999999775
+10% formalin / glycerin,10%formalin_withglycerin_13.28x5.3-9x2.820260304_162515.is_tcyclic.csv,,34,0.5934699999999964
+10% formalin / glycerin,10%formalin_withglycerin_13.28x5.3-9x2.820260304_162515.is_tcyclic.csv,,35,0.5953700000000026
+10% formalin / glycerin,10%formalin_withglycerin_13.28x5.3-9x2.820260304_162515.is_tcyclic.csv,,36,0.5969550000000083
+10% formalin / glycerin,10%formalin_withglycerin_13.28x5.3-9x2.820260304_162515.is_tcyclic.csv,,37,0.591115000000002
+10% formalin / glycerin,10%formalin_withglycerin_13.28x5.3-9x2.820260304_162515.is_tcyclic.csv,,38,0.589995000000016
+10% formalin / glycerin,10%formalin_withglycerin_13.28x5.3-9x2.820260304_162515.is_tcyclic.csv,,39,0.5907400000000109
+10% formalin / glycerin,10%formalin_withglycerin_13.28x5.3-9x2.820260304_162515.is_tcyclic.csv,,40,0.5895649999999932
+10% formalin / glycerin,10%formalin_withglycerin_13.28x5.3-9x2.820260304_162515.is_tcyclic.csv,,41,0.5802800000000161
+10% formalin / glycerin,10%formalin_withglycerin_13.28x5.3-9x2.820260304_162515.is_tcyclic.csv,,42,0.5864249999999913
+10% formalin / glycerin,10%formalin_withglycerin_13.28x5.3-9x2.820260304_162515.is_tcyclic.csv,,43,0.5887499999999761
+10% formalin / glycerin,10%formalin_withglycerin_13.28x5.3-9x2.820260304_162515.is_tcyclic.csv,,44,0.5841199999999844
+10% formalin / glycerin,10%formalin_withglycerin_13.28x5.3-9x2.820260304_162515.is_tcyclic.csv,,45,0.5815749999999866
+10% formalin / glycerin,10%formalin_withglycerin_13.28x5.3-9x2.820260304_162515.is_tcyclic.csv,,46,0.5764700000000005
+10% formalin / glycerin,10%formalin_withglycerin_13.28x5.3-9x2.820260304_162515.is_tcyclic.csv,,47,0.5750150000000076
+10% formalin / glycerin,10%formalin_withglycerin_13.28x5.3-9x2.820260304_162515.is_tcyclic.csv,,48,0.5752949999999544
+10% formalin / glycerin,10%formalin_withglycerin_13.28x5.3-9x2.820260304_162515.is_tcyclic.csv,,49,0.575729999999993
+10% formalin / glycerin,10%formalin_withglycerin_13.28x5.3-9x2.820260304_162515.is_tcyclic.csv,,50,0.5714900000000114
+10% formalin / glycerin,10%formalin_withglycerin_13.28x5.3-9x2.820260304_162515.is_tcyclic.csv,,51,0.5759799999999871
+10% formalin / glycerin,10%formalin_withglycerin_13.28x5.3-9x2.820260304_162515.is_tcyclic.csv,,52,0.5684950000000129
+10% formalin / glycerin,10%formalin_withglycerin_13.28x5.3-9x2.820260304_162515.is_tcyclic.csv,,53,0.5713200000000143
+10% formalin / glycerin,10%formalin_withglycerin_13.28x5.3-9x2.820260304_162515.is_tcyclic.csv,,54,0.5760050000000092
+10% formalin / glycerin,10%formalin_withglycerin_13.28x5.3-9x2.820260304_162515.is_tcyclic.csv,,55,0.580235000000016
+10% formalin / glycerin,10%formalin_withglycerin_13.28x5.3-9x2.820260304_162515.is_tcyclic.csv,,56,0.5787899999999979
+10% formalin / glycerin,10%formalin_withglycerin_13.28x5.3-9x2.820260304_162515.is_tcyclic.csv,,57,0.577194999999989
+10% formalin / glycerin,10%formalin_withglycerin_13.28x5.3-9x2.820260304_162515.is_tcyclic.csv,,58,0.575080000000014
+10% formalin / glycerin,10%formalin_withglycerin_13.28x5.3-9x2.820260304_162515.is_tcyclic.csv,,59,0.5727199999999755
+10% formalin / glycerin,10%formalin_withglycerin_13.28x5.3-9x2.820260304_162515.is_tcyclic.csv,,60,0.5739499999999964
+10% formalin / glycerin,10%formalin_withglycerin_13.28x5.3-9x2.820260304_162515.is_tcyclic.csv,,61,0.5600050000000181
+10% formalin / glycerin,10%formalin_withglycerin_13.28x5.3-9x2.820260304_162515.is_tcyclic.csv,,62,0.561300000000017
+10% formalin / glycerin,10%formalin_withglycerin_13.28x5.3-9x2.820260304_162515.is_tcyclic.csv,,63,0.5612149999999758
+10% formalin / glycerin,10%formalin_withglycerin_13.28x5.3-9x2.820260304_162515.is_tcyclic.csv,,64,0.5639549999999929
+10% formalin / glycerin,10%formalin_withglycerin_13.28x5.3-9x2.820260304_162515.is_tcyclic.csv,,65,0.5652500000000487
+10% formalin / glycerin,10%formalin_withglycerin_13.28x5.3-9x2.820260304_162515.is_tcyclic.csv,,66,0.5573200000000043
+10% formalin / glycerin,10%formalin_withglycerin_13.28x5.3-9x2.820260304_162515.is_tcyclic.csv,,67,0.551335000000023
+10% formalin / glycerin,10%formalin_withglycerin_13.28x5.3-9x2.820260304_162515.is_tcyclic.csv,,68,0.5486000000000217
+10% formalin / glycerin,10%formalin_withglycerin_13.28x5.3-9x2.820260304_162515.is_tcyclic.csv,,69,0.5457600000000014
+10% formalin / glycerin,10%formalin_withglycerin_13.28x5.3-9x2.820260304_162515.is_tcyclic.csv,,70,0.5321299999999951
+10% formalin / glycerin,10%formalin_withglycerin_13.28x5.3-9x2.820260304_162515.is_tcyclic.csv,,71,0.5370049999999935
+10% formalin / glycerin,10%formalin_withglycerin_13.28x5.3-9x2.820260304_162515.is_tcyclic.csv,,72,0.5410300000000348
+10% formalin / glycerin,10%formalin_withglycerin_13.28x5.3-9x2.820260304_162515.is_tcyclic.csv,,73,0.5311800000000062
+10% formalin / glycerin,10%formalin_withglycerin_13.28x5.3-9x2.820260304_162515.is_tcyclic.csv,,74,0.5316949999999849
+10% formalin / glycerin,10%formalin_withglycerin_13.28x5.3-9x2.820260304_162515.is_tcyclic.csv,,75,0.5364199999999641
+10% formalin / glycerin,10%formalin_withglycerin_13.28x5.3-9x2.820260304_162515.is_tcyclic.csv,,76,0.5387049999999647
+10% formalin / glycerin,10%formalin_withglycerin_13.28x5.3-9x2.820260304_162515.is_tcyclic.csv,,77,0.5418300000000045
+10% formalin / glycerin,10%formalin_withglycerin_13.28x5.3-9x2.820260304_162515.is_tcyclic.csv,,78,0.5321850000000268
+10% formalin / glycerin,10%formalin_withglycerin_13.28x5.3-9x2.820260304_162515.is_tcyclic.csv,,79,0.5320250000000328
+10% formalin / glycerin,10%formalin_withglycerin_13.28x5.3-9x2.820260304_162515.is_tcyclic.csv,,80,0.5380250000000331
+10% formalin / glycerin,10%formalin_withglycerin_13.28x5.3-9x2.820260304_162515.is_tcyclic.csv,,81,0.5292400000000157
+10% formalin / glycerin,10%formalin_withglycerin_13.28x5.3-9x2.820260304_162515.is_tcyclic.csv,,82,0.5392249999999876
+10% formalin / glycerin,10%formalin_withglycerin_13.28x5.3-9x2.820260304_162515.is_tcyclic.csv,,83,0.540869999999984
+10% formalin / glycerin,10%formalin_withglycerin_13.28x5.3-9x2.820260304_162515.is_tcyclic.csv,,84,0.5405149999999708
+10% formalin / glycerin,10%formalin_withglycerin_13.28x5.3-9x2.820260304_162515.is_tcyclic.csv,,85,0.5453599999999881
+10% formalin / glycerin,10%formalin_withglycerin_13.28x5.3-9x2.820260304_162515.is_tcyclic.csv,,86,0.5464950000000215
+10% formalin / glycerin,10%formalin_withglycerin_13.28x5.3-9x2.820260304_162515.is_tcyclic.csv,,87,0.5452649999999721
+10% formalin / glycerin,10%formalin_withglycerin_13.28x5.3-9x2.820260304_162515.is_tcyclic.csv,,88,0.545819999999992
+10% formalin / glycerin,10%formalin_withglycerin_13.28x5.3-9x2.820260304_162515.is_tcyclic.csv,,89,0.5434950000000356
+10% formalin / glycerin,10%formalin_withglycerin_13.28x5.3-9x2.820260304_162515.is_tcyclic.csv,,90,0.5373499999999751
+10% formalin / glycerin,10%formalin_withglycerin_13.28x5.3-9x2.820260304_162515.is_tcyclic.csv,,91,0.5469700000000159
+10% formalin / glycerin,10%formalin_withglycerin_13.28x5.3-9x2.820260304_162515.is_tcyclic.csv,,92,0.5359100000000012
+10% formalin / glycerin,10%formalin_withglycerin_13.28x5.3-9x2.820260304_162515.is_tcyclic.csv,,93,0.5421949999999924
+10% formalin / glycerin,10%formalin_withglycerin_13.28x5.3-9x2.820260304_162515.is_tcyclic.csv,,94,0.5307099999999991
+10% formalin / glycerin,10%formalin_withglycerin_13.28x5.3-9x2.820260304_162515.is_tcyclic.csv,,95,0.5430500000000222
+10% formalin / glycerin,10%formalin_withglycerin_13.28x5.3-9x2.820260304_162515.is_tcyclic.csv,,96,0.5326600000000212
+10% formalin / glycerin,10%formalin_withglycerin_13.28x5.3-9x2.820260304_162515.is_tcyclic.csv,,97,0.5385499999999865
+10% formalin / glycerin,10%formalin_withglycerin_13.28x5.3-9x2.820260304_162515.is_tcyclic.csv,,98,0.5385449999999992
+5% formalin / no glycerin,5%formalin_noglycerin_12.68x4.78-8.9x2.4_20260304_164603.is_tcyclic.csv,,1,0.828620000000015
+5% formalin / no glycerin,5%formalin_noglycerin_12.68x4.78-8.9x2.4_20260304_164603.is_tcyclic.csv,,2,0.7301599999999979
+5% formalin / no glycerin,5%formalin_noglycerin_12.68x4.78-8.9x2.4_20260304_164603.is_tcyclic.csv,,3,0.6847099999999955
+5% formalin / no glycerin,5%formalin_noglycerin_12.68x4.78-8.9x2.4_20260304_164603.is_tcyclic.csv,,4,0.6578399999999931
+5% formalin / no glycerin,5%formalin_noglycerin_12.68x4.78-8.9x2.4_20260304_164603.is_tcyclic.csv,,5,0.6252500000000083
+5% formalin / no glycerin,5%formalin_noglycerin_12.68x4.78-8.9x2.4_20260304_164603.is_tcyclic.csv,,6,0.5947649999999953
+5% formalin / no glycerin,5%formalin_noglycerin_12.68x4.78-8.9x2.4_20260304_164603.is_tcyclic.csv,,7,0.5797450000000026
+5% formalin / no glycerin,5%formalin_noglycerin_12.68x4.78-8.9x2.4_20260304_164603.is_tcyclic.csv,,8,0.5747400000000056
+5% formalin / no glycerin,5%formalin_noglycerin_12.68x4.78-8.9x2.4_20260304_164603.is_tcyclic.csv,,9,0.5517049999999983
+5% formalin / no glycerin,5%formalin_noglycerin_12.68x4.78-8.9x2.4_20260304_164603.is_tcyclic.csv,,10,0.5500499999999988
+5% formalin / no glycerin,5%formalin_noglycerin_12.68x4.78-8.9x2.4_20260304_164603.is_tcyclic.csv,,11,0.5425699999999978
+5% formalin / no glycerin,5%formalin_noglycerin_12.68x4.78-8.9x2.4_20260304_164603.is_tcyclic.csv,,12,0.5124950000000013
+5% formalin / no glycerin,5%formalin_noglycerin_12.68x4.78-8.9x2.4_20260304_164603.is_tcyclic.csv,,13,0.5095400000000012
+5% formalin / no glycerin,5%formalin_noglycerin_12.68x4.78-8.9x2.4_20260304_164603.is_tcyclic.csv,,14,0.5076849999999951
+5% formalin / no glycerin,5%formalin_noglycerin_12.68x4.78-8.9x2.4_20260304_164603.is_tcyclic.csv,,15,0.49732499999998936
+5% formalin / no glycerin,5%formalin_noglycerin_12.68x4.78-8.9x2.4_20260304_164603.is_tcyclic.csv,,16,0.4872850000000142
+5% formalin / no glycerin,5%formalin_noglycerin_12.68x4.78-8.9x2.4_20260304_164603.is_tcyclic.csv,,17,0.4775900000000206
+5% formalin / no glycerin,5%formalin_noglycerin_12.68x4.78-8.9x2.4_20260304_164603.is_tcyclic.csv,,18,0.47438499999998385
+5% formalin / no glycerin,5%formalin_noglycerin_12.68x4.78-8.9x2.4_20260304_164603.is_tcyclic.csv,,19,0.4913800000000066
+5% formalin / no glycerin,5%formalin_noglycerin_12.68x4.78-8.9x2.4_20260304_164603.is_tcyclic.csv,,20,0.48790000000001044
+5% formalin / no glycerin,5%formalin_noglycerin_12.68x4.78-8.9x2.4_20260304_164603.is_tcyclic.csv,,21,0.49206000000000927
+5% formalin / no glycerin,5%formalin_noglycerin_12.68x4.78-8.9x2.4_20260304_164603.is_tcyclic.csv,,22,0.4991899999999987
+5% formalin / no glycerin,5%formalin_noglycerin_12.68x4.78-8.9x2.4_20260304_164603.is_tcyclic.csv,,23,0.4965050000000133
+5% formalin / no glycerin,5%formalin_noglycerin_12.68x4.78-8.9x2.4_20260304_164603.is_tcyclic.csv,,24,0.49654999999998495
+5% formalin / no glycerin,5%formalin_noglycerin_12.68x4.78-8.9x2.4_20260304_164603.is_tcyclic.csv,,25,0.48920499999999834
+5% formalin / no glycerin,5%formalin_noglycerin_12.68x4.78-8.9x2.4_20260304_164603.is_tcyclic.csv,,26,0.48672999999999433
+5% formalin / no glycerin,5%formalin_noglycerin_12.68x4.78-8.9x2.4_20260304_164603.is_tcyclic.csv,,27,0.47892000000001644
+5% formalin / no glycerin,5%formalin_noglycerin_12.68x4.78-8.9x2.4_20260304_164603.is_tcyclic.csv,,28,0.47700499999999124
+5% formalin / no glycerin,5%formalin_noglycerin_12.68x4.78-8.9x2.4_20260304_164603.is_tcyclic.csv,,29,0.46720499999997855
+5% formalin / no glycerin,5%formalin_noglycerin_12.68x4.78-8.9x2.4_20260304_164603.is_tcyclic.csv,,30,0.4773749999999666
+5% formalin / no glycerin,5%formalin_noglycerin_12.68x4.78-8.9x2.4_20260304_164603.is_tcyclic.csv,,31,0.4796000000000049
+5% formalin / no glycerin,5%formalin_noglycerin_12.68x4.78-8.9x2.4_20260304_164603.is_tcyclic.csv,,32,0.4796049999999923
+5% formalin / no glycerin,5%formalin_noglycerin_12.68x4.78-8.9x2.4_20260304_164603.is_tcyclic.csv,,33,0.4756699999999796
+5% formalin / no glycerin,5%formalin_noglycerin_12.68x4.78-8.9x2.4_20260304_164603.is_tcyclic.csv,,34,0.4712700000000325
+5% formalin / no glycerin,5%formalin_noglycerin_12.68x4.78-8.9x2.4_20260304_164603.is_tcyclic.csv,,35,0.47133999999999787
+5% formalin / no glycerin,5%formalin_noglycerin_12.68x4.78-8.9x2.4_20260304_164603.is_tcyclic.csv,,36,0.4750999999999692
+5% formalin / no glycerin,5%formalin_noglycerin_12.68x4.78-8.9x2.4_20260304_164603.is_tcyclic.csv,,37,0.4712299999999914
+5% formalin / no glycerin,5%formalin_noglycerin_12.68x4.78-8.9x2.4_20260304_164603.is_tcyclic.csv,,38,0.4698399999999765
+5% formalin / no glycerin,5%formalin_noglycerin_12.68x4.78-8.9x2.4_20260304_164603.is_tcyclic.csv,,39,0.47268499999998426
+5% formalin / no glycerin,5%formalin_noglycerin_12.68x4.78-8.9x2.4_20260304_164603.is_tcyclic.csv,,40,0.4760400000000118
+5% formalin / no glycerin,5%formalin_noglycerin_12.68x4.78-8.9x2.4_20260304_164603.is_tcyclic.csv,,41,0.4810950000000105
+5% formalin / no glycerin,5%formalin_noglycerin_12.68x4.78-8.9x2.4_20260304_164603.is_tcyclic.csv,,42,0.4746250000000316
+5% formalin / no glycerin,5%formalin_noglycerin_12.68x4.78-8.9x2.4_20260304_164603.is_tcyclic.csv,,43,0.4760800000000245
+5% formalin / no glycerin,5%formalin_noglycerin_12.68x4.78-8.9x2.4_20260304_164603.is_tcyclic.csv,,44,0.47170499999998583
+5% formalin / no glycerin,5%formalin_noglycerin_12.68x4.78-8.9x2.4_20260304_164603.is_tcyclic.csv,,45,0.46942999999998847
+5% formalin / no glycerin,5%formalin_noglycerin_12.68x4.78-8.9x2.4_20260304_164603.is_tcyclic.csv,,46,0.4693900000000326
+5% formalin / no glycerin,5%formalin_noglycerin_12.68x4.78-8.9x2.4_20260304_164603.is_tcyclic.csv,,47,0.46677499999995575
+5% formalin / no glycerin,5%formalin_noglycerin_12.68x4.78-8.9x2.4_20260304_164603.is_tcyclic.csv,,48,0.4615699999999947
+5% formalin / no glycerin,5%formalin_noglycerin_12.68x4.78-8.9x2.4_20260304_164603.is_tcyclic.csv,,49,0.4548499999999933
+5% formalin / no glycerin,5%formalin_noglycerin_12.68x4.78-8.9x2.4_20260304_164603.is_tcyclic.csv,,50,0.4525250000000085
+5% formalin / no glycerin,5%formalin_noglycerin_12.68x4.78-8.9x2.4_20260304_164603.is_tcyclic.csv,,51,0.44498500000000263
+5% formalin / no glycerin,5%formalin_noglycerin_12.68x4.78-8.9x2.4_20260304_164603.is_tcyclic.csv,,52,0.44991499999997586
+5% formalin / no glycerin,5%formalin_noglycerin_12.68x4.78-8.9x2.4_20260304_164603.is_tcyclic.csv,,53,0.44934999999998126
+5% formalin / no glycerin,5%formalin_noglycerin_12.68x4.78-8.9x2.4_20260304_164603.is_tcyclic.csv,,54,0.45067000000000235
+5% formalin / no glycerin,5%formalin_noglycerin_12.68x4.78-8.9x2.4_20260304_164603.is_tcyclic.csv,,55,0.44291999999998666
+5% formalin / no glycerin,5%formalin_noglycerin_12.68x4.78-8.9x2.4_20260304_164603.is_tcyclic.csv,,56,0.4415549999999939
+5% formalin / no glycerin,5%formalin_noglycerin_12.68x4.78-8.9x2.4_20260304_164603.is_tcyclic.csv,,57,0.4409599999999898
+5% formalin / no glycerin,5%formalin_noglycerin_12.68x4.78-8.9x2.4_20260304_164603.is_tcyclic.csv,,58,0.4370999999999867
+5% formalin / no glycerin,5%formalin_noglycerin_12.68x4.78-8.9x2.4_20260304_164603.is_tcyclic.csv,,59,0.4487649999999803
+5% formalin / no glycerin,5%formalin_noglycerin_12.68x4.78-8.9x2.4_20260304_164603.is_tcyclic.csv,,60,0.4369599999999707
+5% formalin / no glycerin,5%formalin_noglycerin_12.68x4.78-8.9x2.4_20260304_164603.is_tcyclic.csv,,61,0.44189999999997553
+5% formalin / no glycerin,5%formalin_noglycerin_12.68x4.78-8.9x2.4_20260304_164603.is_tcyclic.csv,,62,0.44348999999999705
+5% formalin / no glycerin,5%formalin_noglycerin_12.68x4.78-8.9x2.4_20260304_164603.is_tcyclic.csv,,63,0.43135999999998376
+5% formalin / no glycerin,5%formalin_noglycerin_12.68x4.78-8.9x2.4_20260304_164603.is_tcyclic.csv,,64,0.4399850000000356
+5% formalin / no glycerin,5%formalin_noglycerin_12.68x4.78-8.9x2.4_20260304_164603.is_tcyclic.csv,,65,0.45085000000000264
+5% formalin / no glycerin,5%formalin_noglycerin_12.68x4.78-8.9x2.4_20260304_164603.is_tcyclic.csv,,66,0.43281500000000506
+5% formalin / no glycerin,5%formalin_noglycerin_12.68x4.78-8.9x2.4_20260304_164603.is_tcyclic.csv,,67,0.4335399999999936
+5% formalin / no glycerin,5%formalin_noglycerin_12.68x4.78-8.9x2.4_20260304_164603.is_tcyclic.csv,,68,0.43363500000003796
+5% formalin / no glycerin,5%formalin_noglycerin_12.68x4.78-8.9x2.4_20260304_164603.is_tcyclic.csv,,69,0.4335749999999905
+5% formalin / no glycerin,5%formalin_noglycerin_12.68x4.78-8.9x2.4_20260304_164603.is_tcyclic.csv,,70,0.43497500000000855
+5% formalin / no glycerin,5%formalin_noglycerin_12.68x4.78-8.9x2.4_20260304_164603.is_tcyclic.csv,,71,0.4348950000000116
+5% formalin / no glycerin,5%formalin_noglycerin_12.68x4.78-8.9x2.4_20260304_164603.is_tcyclic.csv,,72,0.4408149999999864
+5% formalin / no glycerin,5%formalin_noglycerin_12.68x4.78-8.9x2.4_20260304_164603.is_tcyclic.csv,,73,0.4303899999999885
+5% formalin / no glycerin,5%formalin_noglycerin_12.68x4.78-8.9x2.4_20260304_164603.is_tcyclic.csv,,74,0.4374699999999905
+5% formalin / no glycerin,5%formalin_noglycerin_12.68x4.78-8.9x2.4_20260304_164603.is_tcyclic.csv,,75,0.42906500000000847
+5% formalin / no glycerin,5%formalin_noglycerin_12.68x4.78-8.9x2.4_20260304_164603.is_tcyclic.csv,,76,0.4224999999999852
+5% formalin / no glycerin,5%formalin_noglycerin_12.68x4.78-8.9x2.4_20260304_164603.is_tcyclic.csv,,77,0.43387999999998783
+5% formalin / no glycerin,5%formalin_noglycerin_12.68x4.78-8.9x2.4_20260304_164603.is_tcyclic.csv,,78,0.4319549999999879
+5% formalin / no glycerin,5%formalin_noglycerin_12.68x4.78-8.9x2.4_20260304_164603.is_tcyclic.csv,,79,0.4267399999999668
+5% formalin / no glycerin,5%formalin_noglycerin_12.68x4.78-8.9x2.4_20260304_164603.is_tcyclic.csv,,80,0.4218700000000126
+5% formalin / no glycerin,5%formalin_noglycerin_12.68x4.78-8.9x2.4_20260304_164603.is_tcyclic.csv,,81,0.41620000000000346
+5% formalin / no glycerin,5%formalin_noglycerin_12.68x4.78-8.9x2.4_20260304_164603.is_tcyclic.csv,,82,0.4190049999999985
+5% formalin / no glycerin,5%formalin_noglycerin_12.68x4.78-8.9x2.4_20260304_164603.is_tcyclic.csv,,83,0.4194999999999993
+5% formalin / no glycerin,5%formalin_noglycerin_12.68x4.78-8.9x2.4_20260304_164603.is_tcyclic.csv,,84,0.42459999999994125
+5% formalin / no glycerin,5%formalin_noglycerin_12.68x4.78-8.9x2.4_20260304_164603.is_tcyclic.csv,,85,0.4252050000000054
+5% formalin / no glycerin,5%formalin_noglycerin_12.68x4.78-8.9x2.4_20260304_164603.is_tcyclic.csv,,86,0.42447500000002947
+5% formalin / no glycerin,5%formalin_noglycerin_12.68x4.78-8.9x2.4_20260304_164603.is_tcyclic.csv,,87,0.4166099999999915
+5% formalin / no glycerin,5%formalin_noglycerin_12.68x4.78-8.9x2.4_20260304_164603.is_tcyclic.csv,,88,0.4141999999999939
+5% formalin / no glycerin,5%formalin_noglycerin_12.68x4.78-8.9x2.4_20260304_164603.is_tcyclic.csv,,89,0.410930000000036
+5% formalin / no glycerin,5%formalin_noglycerin_12.68x4.78-8.9x2.4_20260304_164603.is_tcyclic.csv,,90,0.4124400000000037
+5% formalin / no glycerin,5%formalin_noglycerin_12.68x4.78-8.9x2.4_20260304_164603.is_tcyclic.csv,,91,0.40928000000002385
+5% formalin / no glycerin,5%formalin_noglycerin_12.68x4.78-8.9x2.4_20260304_164603.is_tcyclic.csv,,92,0.41091999999997597
+5% formalin / no glycerin,5%formalin_noglycerin_12.68x4.78-8.9x2.4_20260304_164603.is_tcyclic.csv,,93,0.41231500000003507
+5% formalin / no glycerin,5%formalin_noglycerin_12.68x4.78-8.9x2.4_20260304_164603.is_tcyclic.csv,,94,0.40986999999998375
+5% formalin / no glycerin,5%formalin_noglycerin_12.68x4.78-8.9x2.4_20260304_164603.is_tcyclic.csv,,95,0.40261999999998466
+5% formalin / no glycerin,5%formalin_noglycerin_12.68x4.78-8.9x2.4_20260304_164603.is_tcyclic.csv,,96,0.4031999999999982
+5% formalin / no glycerin,5%formalin_noglycerin_12.68x4.78-8.9x2.4_20260304_164603.is_tcyclic.csv,,97,0.39957999999998606
+5% formalin / no glycerin,5%formalin_noglycerin_12.68x4.78-8.9x2.4_20260304_164603.is_tcyclic.csv,,98,0.4011250000000359
+5% formalin / no glycerin,5%formalin_noglycerin_12.68x4.78-8.9x2.4_20260304_164603.is_tcyclic.csv,,99,0.41133000000002085
+5% formalin / no glycerin,5%formalin_noglycerin_12.68x4.78-8.9x2.4_20260304_164603.is_tcyclic.csv,,100,0.4129899999999793
+5% formalin / no glycerin,5%formalin_noglycerin_14.1x5.5_20260304_165736_1.csv,,1,0.8933700000000044
+5% formalin / no glycerin,5%formalin_noglycerin_14.1x5.5_20260304_165736_1.csv,,2,0.797229999999999
+5% formalin / no glycerin,5%formalin_noglycerin_14.1x5.5_20260304_165736_1.csv,,3,0.7384799999999814
+5% formalin / no glycerin,5%formalin_noglycerin_14.1x5.5_20260304_165736_1.csv,,4,0.6742150000000038
+5% formalin / no glycerin,5%formalin_noglycerin_14.1x5.5_20260304_165736_1.csv,,5,0.6556549999999959
+5% formalin / no glycerin,5%formalin_noglycerin_14.1x5.5_20260304_165736_1.csv,,6,0.6432049999999947
+5% formalin / no glycerin,5%formalin_noglycerin_14.1x5.5_20260304_165736_1.csv,,7,0.6364999999999981
+5% formalin / no glycerin,5%formalin_noglycerin_14.1x5.5_20260304_165736_1.csv,,8,0.6180449999999809
+5% formalin / no glycerin,5%formalin_noglycerin_14.1x5.5_20260304_165736_1.csv,,9,0.624005000000011
+5% formalin / no glycerin,5%formalin_noglycerin_14.1x5.5_20260304_165736_1.csv,,10,0.636944999999983
+5% formalin / no glycerin,5%formalin_noglycerin_14.1x5.5_20260304_165736_1.csv,,11,0.6408750000000083
+5% formalin / no glycerin,5%formalin_noglycerin_14.1x5.5_20260304_165736_1.csv,,12,0.6549949999999995
+5% formalin / no glycerin,5%formalin_noglycerin_14.1x5.5_20260304_165736_1.csv,,13,0.6478249999999974
+5% formalin / no glycerin,5%formalin_noglycerin_14.1x5.5_20260304_165736_1.csv,,14,0.6317100000000124
+5% formalin / no glycerin,5%formalin_noglycerin_14.1x5.5_20260304_165736_1.csv,,15,0.6263950000000023
+5% formalin / no glycerin,5%formalin_noglycerin_14.1x5.5_20260304_165736_1.csv,,16,0.6144549999999924
+5% formalin / no glycerin,5%formalin_noglycerin_14.1x5.5_20260304_165736_1.csv,,17,0.6039850000000087
+5% formalin / no glycerin,5%formalin_noglycerin_14.1x5.5_20260304_165736_1.csv,,18,0.5724000000000018
+5% formalin / no glycerin,5%formalin_noglycerin_14.1x5.5_20260304_165736_1.csv,,19,0.5685650000000066
+5% formalin / no glycerin,5%formalin_noglycerin_14.1x5.5_20260304_165736_1.csv,,20,0.560450000000003
+5% formalin / no glycerin,5%formalin_noglycerin_14.1x5.5_20260304_165736_1.csv,,21,0.5565850000000125
+5% formalin / no glycerin,5%formalin_noglycerin_14.1x5.5_20260304_165736_1.csv,,22,0.5487350000000077
+5% formalin / no glycerin,5%formalin_noglycerin_14.1x5.5_20260304_165736_1.csv,,23,0.5392549999999972
+5% formalin / no glycerin,5%formalin_noglycerin_14.1x5.5_20260304_165736_1.csv,,24,0.5269100000000009
+5% formalin / no glycerin,5%formalin_noglycerin_14.1x5.5_20260304_165736_1.csv,,25,0.5173800000000028
+5% formalin / no glycerin,5%formalin_noglycerin_14.1x5.5_20260304_165736_1.csv,,26,0.5066099999999949
+5% formalin / no glycerin,5%formalin_noglycerin_14.1x5.5_20260304_165736_1.csv,,27,0.49907000000001744
+5% formalin / no glycerin,5%formalin_noglycerin_14.1x5.5_20260304_165736_1.csv,,28,0.4940149999999761
+5% formalin / no glycerin,5%formalin_noglycerin_14.1x5.5_20260304_165736_1.csv,,29,0.49044000000000665
+5% formalin / no glycerin,5%formalin_noglycerin_14.1x5.5_20260304_165736_1.csv,,30,0.48365000000001146
+5% formalin / no glycerin,5%formalin_noglycerin_14.1x5.5_20260304_165736_1.csv,,31,0.48616499999999974
+5% formalin / no glycerin,5%formalin_noglycerin_14.1x5.5_20260304_165736_1.csv,,32,0.48753499999997985
+5% formalin / no glycerin,5%formalin_noglycerin_14.1x5.5_20260304_165736_1.csv,,33,0.48216999999999643
+5% formalin / no glycerin,5%formalin_noglycerin_14.1x5.5_20260304_165736_1.csv,,34,0.4869199999999694
+5% formalin / no glycerin,5%formalin_noglycerin_14.1x5.5_20260304_165736_1.csv,,35,0.49224500000002536
+5% formalin / no glycerin,5%formalin_noglycerin_14.1x5.5_20260304_165736_1.csv,,36,0.48738999999997645
+5% formalin / no glycerin,5%formalin_noglycerin_14.1x5.5_20260304_165736_1.csv,,37,0.48495500000001357
+5% formalin / no glycerin,5%formalin_noglycerin_14.1x5.5_20260304_165736_1.csv,,38,0.48095499999999447
+5% formalin / no glycerin,5%formalin_noglycerin_14.1x5.5_20260304_165736_1.csv,,39,0.48361500000001456
+5% formalin / no glycerin,5%formalin_noglycerin_14.1x5.5_20260304_165736_1.csv,,40,0.4763849999999934
+5% formalin / no glycerin,5%formalin_noglycerin_14.1x5.5_20260304_165736_1.csv,,41,0.47372500000003015
+5% formalin / no glycerin,5%formalin_noglycerin_14.1x5.5_20260304_165736_1.csv,,42,0.47494499999999107
+5% formalin / no glycerin,5%formalin_noglycerin_14.1x5.5_20260304_165736_1.csv,,43,0.4717350000000238
+5% formalin / no glycerin,5%formalin_noglycerin_14.1x5.5_20260304_165736_1.csv,,44,0.47446500000000924
+5% formalin / no glycerin,5%formalin_noglycerin_14.1x5.5_20260304_165736_1.csv,,45,0.47789000000003057
+5% formalin / no glycerin,5%formalin_noglycerin_14.1x5.5_20260304_165736_1.csv,,46,0.4756050000000016
+5% formalin / no glycerin,5%formalin_noglycerin_14.1x5.5_20260304_165736_1.csv,,47,0.46545500000001994
+5% formalin / no glycerin,5%formalin_noglycerin_14.1x5.5_20260304_165736_1.csv,,48,0.473844999999983
+5% formalin / no glycerin,5%formalin_noglycerin_14.1x5.5_20260304_165736_1.csv,,49,0.4731700000000103
+5% formalin / no glycerin,5%formalin_noglycerin_14.1x5.5_20260304_165736_1.csv,,50,0.46688999999997804
+5% formalin / no glycerin,5%formalin_noglycerin_14.1x5.5_20260304_165736_1.csv,,51,0.4641550000000052
+5% formalin / no glycerin,5%formalin_noglycerin_14.1x5.5_20260304_165736_1.csv,,52,0.4704100000000153
+5% formalin / no glycerin,5%formalin_noglycerin_14.1x5.5_20260304_165736_1.csv,,53,0.46688999999997804
+5% formalin / no glycerin,5%formalin_noglycerin_14.1x5.5_20260304_165736_1.csv,,54,0.4709299999999814
+5% formalin / no glycerin,5%formalin_noglycerin_14.1x5.5_20260304_165736_1.csv,,55,0.4685999999999808
+5% formalin / no glycerin,5%formalin_noglycerin_14.1x5.5_20260304_165736_1.csv,,56,0.46412499999996726
+5% formalin / no glycerin,5%formalin_noglycerin_14.1x5.5_20260304_165736_1.csv,,57,0.46961999999999193
+5% formalin / no glycerin,5%formalin_noglycerin_14.1x5.5_20260304_165736_1.csv,,58,0.4658850000000143
+5% formalin / no glycerin,5%formalin_noglycerin_14.1x5.5_20260304_165736_1.csv,,59,0.4628799999999842
+5% formalin / no glycerin,5%formalin_noglycerin_14.1x5.5_20260304_165736_1.csv,,60,0.4665249999999901
+5% formalin / no glycerin,5%formalin_noglycerin_14.1x5.5_20260304_165736_1.csv,,61,0.4632349999999974
+5% formalin / no glycerin,5%formalin_noglycerin_14.1x5.5_20260304_165736_1.csv,,62,0.4640799999999956
+5% formalin / no glycerin,5%formalin_noglycerin_14.1x5.5_20260304_165736_1.csv,,63,0.4601499999999987
+5% formalin / no glycerin,5%formalin_noglycerin_14.1x5.5_20260304_165736_1.csv,,64,0.4561700000000144
+5% formalin / no glycerin,5%formalin_noglycerin_14.1x5.5_20260304_165736_1.csv,,65,0.45808499999998276
+5% formalin / no glycerin,5%formalin_noglycerin_14.1x5.5_20260304_165736_1.csv,,66,0.45770500000000425
+5% formalin / no glycerin,5%formalin_noglycerin_14.1x5.5_20260304_165736_1.csv,,67,0.4572499999999877
+5% formalin / no glycerin,5%formalin_noglycerin_14.1x5.5_20260304_165736_1.csv,,68,0.4599799999999732
+5% formalin / no glycerin,5%formalin_noglycerin_14.1x5.5_20260304_165736_1.csv,,69,0.45638500000004
+5% formalin / no glycerin,5%formalin_noglycerin_14.1x5.5_20260304_165736_1.csv,,70,0.45384500000000116
+5% formalin / no glycerin,5%formalin_noglycerin_14.1x5.5_20260304_165736_1.csv,,71,0.4544400000000053
+5% formalin / no glycerin,5%formalin_noglycerin_14.1x5.5_20260304_165736_1.csv,,72,0.45717500000000655
+5% formalin / no glycerin,5%formalin_noglycerin_14.1x5.5_20260304_165736_1.csv,,73,0.46283500000001254
+5% formalin / no glycerin,5%formalin_noglycerin_14.1x5.5_20260304_165736_1.csv,,74,0.45084500000001526
+5% formalin / no glycerin,5%formalin_noglycerin_14.1x5.5_20260304_165736_1.csv,,75,0.45543999999998164
+5% formalin / no glycerin,5%formalin_noglycerin_14.1x5.5_20260304_165736_1.csv,,76,0.4521599999999921
+5% formalin / no glycerin,5%formalin_noglycerin_14.1x5.5_20260304_165736_1.csv,,77,0.45452000000000226
+5% formalin / no glycerin,5%formalin_noglycerin_14.1x5.5_20260304_165736_1.csv,,78,0.4551850000000002
+5% formalin / no glycerin,5%formalin_noglycerin_14.1x5.5_20260304_165736_1.csv,,79,0.45491000000001236
+5% formalin / no glycerin,5%formalin_noglycerin_14.1x5.5_20260304_165736_1.csv,,80,0.4509699999999839
+5% formalin / no glycerin,5%formalin_noglycerin_14.1x5.5_20260304_165736_1.csv,,81,0.4511200000000031
+5% formalin / no glycerin,5%formalin_noglycerin_14.1x5.5_20260304_165736_1.csv,,82,0.45029000000002384
+5% formalin / no glycerin,5%formalin_noglycerin_14.1x5.5_20260304_165736_1.csv,,83,0.4510999999999967
+5% formalin / no glycerin,5%formalin_noglycerin_14.1x5.5_20260304_165736_1.csv,,84,0.44389500000002613
+5% formalin / no glycerin,5%formalin_noglycerin_14.1x5.5_20260304_165736_1.csv,,85,0.4453250000000253
+5% formalin / no glycerin,5%formalin_noglycerin_14.1x5.5_20260304_165736_1.csv,,86,0.44332000000002836
+5% formalin / no glycerin,5%formalin_noglycerin_14.1x5.5_20260304_165736_1.csv,,87,0.44458500000001777
+5% formalin / no glycerin,5%formalin_noglycerin_14.1x5.5_20260304_165736_1.csv,,88,0.44082499999996116
+5% formalin / no glycerin,5%formalin_noglycerin_14.1x5.5_20260304_165736_1.csv,,89,0.43571499999998764
+5% formalin / no glycerin,5%formalin_noglycerin_14.1x5.5_20260304_165736_1.csv,,90,0.43125999999998044
+5% formalin / no glycerin,5%formalin_noglycerin_14.1x5.5_20260304_165736_1.csv,,91,0.43379999999999086
+5% formalin / no glycerin,5%formalin_noglycerin_14.1x5.5_20260304_165736_1.csv,,92,0.4410650000000089
+5% formalin / no glycerin,5%formalin_noglycerin_14.1x5.5_20260304_165736_1.csv,,93,0.4396849999999972
+5% formalin / no glycerin,5%formalin_noglycerin_14.1x5.5_20260304_165736_1.csv,,94,0.43627499999996644
+5% formalin / no glycerin,5%formalin_noglycerin_14.1x5.5_20260304_165736_1.csv,,95,0.4384149999999636
+5% formalin / no glycerin,5%formalin_noglycerin_14.1x5.5_20260304_165736_1.csv,,96,0.43946500000001265
+5% formalin / no glycerin,5%formalin_noglycerin_14.1x5.5_20260304_165736_1.csv,,97,0.43767000000002554
+5% formalin / no glycerin,5%formalin_noglycerin_14.1x5.5_20260304_165736_1.csv,,98,0.4363050000000044
+5% formalin / no glycerin,5%formalin_noglycerin_14.1x5.5_20260304_165736_1.csv,,99,0.4382500000000107
+5% formalin / no glycerin,5%formalin_noglycerin_14.1x5.5_20260304_165736_1.csv,,100,0.4390949999999805
+5% formalin / glycerin,5%formalin_withglycerin_11x6.5-10.4x3.8_20260304_174144.csv,,1,1.5254999999999939
+5% formalin / glycerin,5%formalin_withglycerin_11x6.5-10.4x3.8_20260304_174144.csv,,2,1.3523050000000012
+5% formalin / glycerin,5%formalin_withglycerin_11x6.5-10.4x3.8_20260304_174144.csv,,3,1.2213250000000357
+5% formalin / glycerin,5%formalin_withglycerin_11x6.5-10.4x3.8_20260304_174144.csv,,4,1.1522800000000188
+5% formalin / glycerin,5%formalin_withglycerin_11x6.5-10.4x3.8_20260304_174144.csv,,5,1.0976100000000315
+5% formalin / glycerin,5%formalin_withglycerin_11x6.5-10.4x3.8_20260304_174144.csv,,6,1.0722900000000095
+5% formalin / glycerin,5%formalin_withglycerin_11x6.5-10.4x3.8_20260304_174144.csv,,7,1.0524599999999964
+5% formalin / glycerin,5%formalin_withglycerin_11x6.5-10.4x3.8_20260304_174144.csv,,8,1.0443200000000843
+5% formalin / glycerin,5%formalin_withglycerin_11x6.5-10.4x3.8_20260304_174144.csv,,9,1.0214849999999274
+5% formalin / glycerin,5%formalin_withglycerin_11x6.5-10.4x3.8_20260304_174144.csv,,10,1.0136400000000094
+5% formalin / glycerin,5%formalin_withglycerin_11x6.5-10.4x3.8_20260304_174144.csv,,11,0.9972799999999893
+5% formalin / glycerin,5%formalin_withglycerin_11x6.5-10.4x3.8_20260304_174144.csv,,12,0.9525350000000117
+5% formalin / glycerin,5%formalin_withglycerin_11x6.5-10.4x3.8_20260304_174144.csv,,13,0.9370499999999993
+5% formalin / glycerin,5%formalin_withglycerin_11x6.5-10.4x3.8_20260304_174144.csv,,14,0.9216199999999617
+5% formalin / glycerin,5%formalin_withglycerin_11x6.5-10.4x3.8_20260304_174144.csv,,15,0.8822349999999233
+5% formalin / glycerin,5%formalin_withglycerin_11x6.5-10.4x3.8_20260304_174144.csv,,16,0.8688200000000279
+5% formalin / glycerin,5%formalin_withglycerin_11x6.5-10.4x3.8_20260304_174144.csv,,17,0.8664150000000177
+5% formalin / glycerin,5%formalin_withglycerin_11x6.5-10.4x3.8_20260304_174144.csv,,18,0.8604950000000144
+5% formalin / glycerin,5%formalin_withglycerin_11x6.5-10.4x3.8_20260304_174144.csv,,19,0.8545599999999922
+5% formalin / glycerin,5%formalin_withglycerin_11x6.5-10.4x3.8_20260304_174144.csv,,20,0.8681500000000142
+5% formalin / glycerin,5%formalin_withglycerin_11x6.5-10.4x3.8_20260304_174144.csv,,21,0.8689150000000154
+5% formalin / glycerin,5%formalin_withglycerin_11x6.5-10.4x3.8_20260304_174144.csv,,22,0.873480000000086
+5% formalin / glycerin,5%formalin_withglycerin_11x6.5-10.4x3.8_20260304_174144.csv,,23,0.8740649999999732
+5% formalin / glycerin,5%formalin_withglycerin_11x6.5-10.4x3.8_20260304_174144.csv,,24,0.8716450000000577
+5% formalin / glycerin,5%formalin_withglycerin_11x6.5-10.4x3.8_20260304_174144.csv,,25,0.8699149999999918
+5% formalin / glycerin,5%formalin_withglycerin_11x6.5-10.4x3.8_20260304_174144.csv,,26,0.8623200000000111
+5% formalin / glycerin,5%formalin_withglycerin_11x6.5-10.4x3.8_20260304_174144.csv,,27,0.8461099999999533
+5% formalin / glycerin,5%formalin_withglycerin_11x6.5-10.4x3.8_20260304_174144.csv,,28,0.8503150000000232
+5% formalin / glycerin,5%formalin_withglycerin_11x6.5-10.4x3.8_20260304_174144.csv,,29,0.8453700000000026
+5% formalin / glycerin,5%formalin_withglycerin_11x6.5-10.4x3.8_20260304_174144.csv,,30,0.8254000000000588
+5% formalin / glycerin,5%formalin_withglycerin_11x6.5-10.4x3.8_20260304_174144.csv,,31,0.8113799999999856
+5% formalin / glycerin,5%formalin_withglycerin_11x6.5-10.4x3.8_20260304_174144.csv,,32,0.7962350000000242
+5% formalin / glycerin,5%formalin_withglycerin_11x6.5-10.4x3.8_20260304_174144.csv,,33,0.8017500000000268
+5% formalin / glycerin,5%formalin_withglycerin_11x6.5-10.4x3.8_20260304_174144.csv,,34,0.7898799999999824
+5% formalin / glycerin,5%formalin_withglycerin_11x6.5-10.4x3.8_20260304_174144.csv,,35,0.7855099999999311
+5% formalin / glycerin,5%formalin_withglycerin_11x6.5-10.4x3.8_20260304_174144.csv,,36,0.7692949999999428
+5% formalin / glycerin,5%formalin_withglycerin_11x6.5-10.4x3.8_20260304_174144.csv,,37,0.7576749999999493
+5% formalin / glycerin,5%formalin_withglycerin_11x6.5-10.4x3.8_20260304_174144.csv,,38,0.756385000000023
+5% formalin / glycerin,5%formalin_withglycerin_11x6.5-10.4x3.8_20260304_174144.csv,,39,0.7641199999999344
+5% formalin / glycerin,5%formalin_withglycerin_11x6.5-10.4x3.8_20260304_174144.csv,,40,0.7544849999999315
+5% formalin / glycerin,5%formalin_withglycerin_11x6.5-10.4x3.8_20260304_174144.csv,,41,0.7585599999999886
+5% formalin / glycerin,5%formalin_withglycerin_11x6.5-10.4x3.8_20260304_174144.csv,,42,0.7531749999998851
+5% formalin / glycerin,5%formalin_withglycerin_11x6.5-10.4x3.8_20260304_174144.csv,,43,0.7487949999999728
+5% formalin / glycerin,5%formalin_withglycerin_11x6.5-10.4x3.8_20260304_174144.csv,,44,0.746735000000001
+5% formalin / glycerin,5%formalin_withglycerin_11x6.5-10.4x3.8_20260304_174144.csv,,45,0.7427450000000135
+5% formalin / glycerin,5%formalin_withglycerin_11x6.5-10.4x3.8_20260304_174144.csv,,46,0.7360349999999585
+5% formalin / glycerin,5%formalin_withglycerin_11x6.5-10.4x3.8_20260304_174144.csv,,47,0.730130000000031
+5% formalin / glycerin,5%formalin_withglycerin_11x6.5-10.4x3.8_20260304_174144.csv,,48,0.7280099999999834
+5% formalin / glycerin,5%formalin_withglycerin_11x6.5-10.4x3.8_20260304_174144.csv,,49,0.727944999999977
+5% formalin / glycerin,5%formalin_withglycerin_11x6.5-10.4x3.8_20260304_174144.csv,,50,0.7300099999999929
+5% formalin / glycerin,5%formalin_withglycerin_11x6.5-10.4x3.8_20260304_174144.csv,,51,0.7215099999999666
+5% formalin / glycerin,5%formalin_withglycerin_11x6.5-10.4x3.8_20260304_174144.csv,,52,0.7212900000000104
+5% formalin / glycerin,5%formalin_withglycerin_11x6.5-10.4x3.8_20260304_174144.csv,,53,0.7213150000000041
+5% formalin / glycerin,5%formalin_withglycerin_11x6.5-10.4x3.8_20260304_174144.csv,,54,0.7149850000000697
+5% formalin / glycerin,5%formalin_withglycerin_11x6.5-10.4x3.8_20260304_174144.csv,,55,0.7048500000000786
+5% formalin / glycerin,5%formalin_withglycerin_11x6.5-10.4x3.8_20260304_174144.csv,,56,0.7109749999999622
+5% formalin / glycerin,5%formalin_withglycerin_11x6.5-10.4x3.8_20260304_174144.csv,,57,0.7168300000000158
+5% formalin / glycerin,5%formalin_withglycerin_11x6.5-10.4x3.8_20260304_174144.csv,,58,0.7059999999999604
+5% formalin / glycerin,5%formalin_withglycerin_11x6.5-10.4x3.8_20260304_174144.csv,,59,0.709609999999941
+5% formalin / glycerin,5%formalin_withglycerin_11x6.5-10.4x3.8_20260304_174144.csv,,60,0.7107549999999492
+5% formalin / glycerin,5%formalin_withglycerin_11x6.5-10.4x3.8_20260304_174144.csv,,61,0.7054850000000101
+5% formalin / glycerin,5%formalin_withglycerin_11x6.5-10.4x3.8_20260304_174144.csv,,62,0.7126000000000658
+5% formalin / glycerin,5%formalin_withglycerin_11x6.5-10.4x3.8_20260304_174144.csv,,63,0.706055000000049
+5% formalin / glycerin,5%formalin_withglycerin_11x6.5-10.4x3.8_20260304_174144.csv,,64,0.7003100000000018
+5% formalin / glycerin,5%formalin_withglycerin_11x6.5-10.4x3.8_20260304_174144.csv,,65,0.706450000000018
+5% formalin / glycerin,5%formalin_withglycerin_11x6.5-10.4x3.8_20260304_174144.csv,,66,0.7057300000000737
+5% formalin / glycerin,5%formalin_withglycerin_11x6.5-10.4x3.8_20260304_174144.csv,,67,0.7199299999999766
+5% formalin / glycerin,5%formalin_withglycerin_11x6.5-10.4x3.8_20260304_174144.csv,,68,0.7134299999999598
+5% formalin / glycerin,5%formalin_withglycerin_11x6.5-10.4x3.8_20260304_174144.csv,,69,0.7116399999999885
+5% formalin / glycerin,5%formalin_withglycerin_11x6.5-10.4x3.8_20260304_174144.csv,,70,0.7076899999999569
+5% formalin / glycerin,5%formalin_withglycerin_11x6.5-10.4x3.8_20260304_174144.csv,,71,0.7104800000000182
+5% formalin / glycerin,5%formalin_withglycerin_11x6.5-10.4x3.8_20260304_174144.csv,,72,0.7027450000000499
+5% formalin / glycerin,5%formalin_withglycerin_11x6.5-10.4x3.8_20260304_174144.csv,,73,0.697765000000004
+5% formalin / glycerin,5%formalin_withglycerin_11x6.5-10.4x3.8_20260304_174144.csv,,74,0.701660000000004
+5% formalin / glycerin,5%formalin_withglycerin_11x6.5-10.4x3.8_20260304_174144.csv,,75,0.703959999999995
+5% formalin / glycerin,5%formalin_withglycerin_11x6.5-10.4x3.8_20260304_174144.csv,,76,0.7022699999998849
+5% formalin / glycerin,5%formalin_withglycerin_11x6.5-10.4x3.8_20260304_174144.csv,,77,0.7006799999999771
+5% formalin / glycerin,5%formalin_withglycerin_11x6.5-10.4x3.8_20260304_174144.csv,,78,0.6825350000000299
+5% formalin / glycerin,5%formalin_withglycerin_11x6.5-10.4x3.8_20260304_174144.csv,,79,0.6905950000000303
+5% formalin / glycerin,5%formalin_withglycerin_11x6.5-10.4x3.8_20260304_174144.csv,,80,0.6986500000000433
+5% formalin / glycerin,5%formalin_withglycerin_11x6.5-10.4x3.8_20260304_174144.csv,,81,0.6983700000000113
+5% formalin / glycerin,5%formalin_withglycerin_11x6.5-10.4x3.8_20260304_174144.csv,,82,0.6949849999999742
+5% formalin / glycerin,5%formalin_withglycerin_11x6.5-10.4x3.8_20260304_174144.csv,,83,0.6901399999999853
+5% formalin / glycerin,5%formalin_withglycerin_11x6.5-10.4x3.8_20260304_174144.csv,,84,0.6919399999999882
+5% formalin / glycerin,5%formalin_withglycerin_11x6.5-10.4x3.8_20260304_174144.csv,,85,0.692009999999982
+5% formalin / glycerin,5%formalin_withglycerin_11x6.5-10.4x3.8_20260304_174144.csv,,86,0.6911300000000438
+5% formalin / glycerin,5%formalin_withglycerin_11x6.5-10.4x3.8_20260304_174144.csv,,87,0.689649999999915
+5% formalin / glycerin,5%formalin_withglycerin_11x6.5-10.4x3.8_20260304_174144.csv,,88,0.6879200000000196
+5% formalin / glycerin,5%formalin_withglycerin_11x6.5-10.4x3.8_20260304_174144.csv,,89,0.6950799999999617
+5% formalin / glycerin,5%formalin_withglycerin_11x6.5-10.4x3.8_20260304_174144.csv,,90,0.6930899999999838
+5% formalin / glycerin,5%formalin_withglycerin_11x6.5-10.4x3.8_20260304_174144.csv,,91,0.6829799999999864
+5% formalin / glycerin,5%formalin_withglycerin_11x6.5-10.4x3.8_20260304_174144.csv,,92,0.6847849999999767
+5% formalin / glycerin,5%formalin_withglycerin_11x6.5-10.4x3.8_20260304_174144.csv,,93,0.6771699999999896
+5% formalin / glycerin,5%formalin_withglycerin_11x6.5-10.4x3.8_20260304_174144.csv,,94,0.6818749999999341
+5% formalin / glycerin,5%formalin_withglycerin_11x6.5-10.4x3.8_20260304_174144.csv,,95,0.6788949999999545
+5% formalin / glycerin,5%formalin_withglycerin_11x6.5-10.4x3.8_20260304_174144.csv,,96,0.6770399999999199
+5% formalin / glycerin,5%formalin_withglycerin_11x6.5-10.4x3.8_20260304_174144.csv,,97,0.6810449999999264
+5% formalin / glycerin,5%formalin_withglycerin_11x6.5-10.4x3.8_20260304_174144.csv,,98,0.681030000000078
+5% formalin / glycerin,5%formalin_withglycerin_11x6.5-10.4x3.8_20260304_174144.csv,,99,0.680735000000027
+5% formalin / glycerin,5%formalin_withglycerin_11x6.5-10.4x3.8_20260304_174144.csv,,100,0.6839850000000638
+5% formalin / glycerin,5%formalin_withglycerine_12.36x5.3-9.92x2.6_20260304_173332.csv,,1,1.1964950000000272
+5% formalin / glycerin,5%formalin_withglycerine_12.36x5.3-9.92x2.6_20260304_173332.csv,,2,1.043389999999988
+5% formalin / glycerin,5%formalin_withglycerine_12.36x5.3-9.92x2.6_20260304_173332.csv,,3,1.020859999999999
+5% formalin / glycerin,5%formalin_withglycerine_12.36x5.3-9.92x2.6_20260304_173332.csv,,4,0.9587349999999901
+5% formalin / glycerin,5%formalin_withglycerine_12.36x5.3-9.92x2.6_20260304_173332.csv,,5,0.94628000000003
+5% formalin / glycerin,5%formalin_withglycerine_12.36x5.3-9.92x2.6_20260304_173332.csv,,6,1.0714350000000081
+5% formalin / glycerin,5%formalin_withglycerine_12.36x5.3-9.92x2.6_20260304_173332.csv,,7,1.0784999999999911
+5% formalin / glycerin,5%formalin_withglycerine_12.36x5.3-9.92x2.6_20260304_173332.csv,,8,0.9904700000000162
+5% formalin / glycerin,5%formalin_withglycerine_12.36x5.3-9.92x2.6_20260304_173332.csv,,9,0.9081849999999747
+5% formalin / glycerin,5%formalin_withglycerine_12.36x5.3-9.92x2.6_20260304_173332.csv,,10,0.860904999999974
+5% formalin / glycerin,5%formalin_withglycerine_12.36x5.3-9.92x2.6_20260304_173332.csv,,11,0.8010299999999972
+5% formalin / glycerin,5%formalin_withglycerine_12.36x5.3-9.92x2.6_20260304_173332.csv,,12,0.7786000000000115
+5% formalin / glycerin,5%formalin_withglycerine_12.36x5.3-9.92x2.6_20260304_173332.csv,,13,0.758860000000027
+5% formalin / glycerin,5%formalin_withglycerine_12.36x5.3-9.92x2.6_20260304_173332.csv,,14,0.7400649999999871
+5% formalin / glycerin,5%formalin_withglycerine_12.36x5.3-9.92x2.6_20260304_173332.csv,,15,0.7191949999999849
+5% formalin / glycerin,5%formalin_withglycerine_12.36x5.3-9.92x2.6_20260304_173332.csv,,16,0.7169450000000097
+5% formalin / glycerin,5%formalin_withglycerine_12.36x5.3-9.92x2.6_20260304_173332.csv,,17,0.7183950000000436
+5% formalin / glycerin,5%formalin_withglycerine_12.36x5.3-9.92x2.6_20260304_173332.csv,,18,0.724474999999984
+5% formalin / glycerin,5%formalin_withglycerine_12.36x5.3-9.92x2.6_20260304_173332.csv,,19,0.7269449999999722
+5% formalin / glycerin,5%formalin_withglycerine_12.36x5.3-9.92x2.6_20260304_173332.csv,,20,0.7283250000000123
+5% formalin / glycerin,5%formalin_withglycerine_12.36x5.3-9.92x2.6_20260304_173332.csv,,21,0.7103799999999865
+5% formalin / glycerin,5%formalin_withglycerine_12.36x5.3-9.92x2.6_20260304_173332.csv,,22,0.7120250000000112
+5% formalin / glycerin,5%formalin_withglycerine_12.36x5.3-9.92x2.6_20260304_173332.csv,,23,0.7034449999999879
+5% formalin / glycerin,5%formalin_withglycerine_12.36x5.3-9.92x2.6_20260304_173332.csv,,24,0.7089150000000188
+5% formalin / glycerin,5%formalin_withglycerine_12.36x5.3-9.92x2.6_20260304_173332.csv,,25,0.7086949999999774
+5% formalin / glycerin,5%formalin_withglycerine_12.36x5.3-9.92x2.6_20260304_173332.csv,,26,0.7129550000000222
+5% formalin / glycerin,5%formalin_withglycerine_12.36x5.3-9.92x2.6_20260304_173332.csv,,27,0.7011499999999842
+5% formalin / glycerin,5%formalin_withglycerine_12.36x5.3-9.92x2.6_20260304_173332.csv,,28,0.7030849999999873
+5% formalin / glycerin,5%formalin_withglycerine_12.36x5.3-9.92x2.6_20260304_173332.csv,,29,0.6927899999999738
+5% formalin / glycerin,5%formalin_withglycerine_12.36x5.3-9.92x2.6_20260304_173332.csv,,30,0.693569999999994
+5% formalin / glycerin,5%formalin_withglycerine_12.36x5.3-9.92x2.6_20260304_173332.csv,,31,0.6941100000000233
+5% formalin / glycerin,5%formalin_withglycerine_12.36x5.3-9.92x2.6_20260304_173332.csv,,32,0.6956849999999974
+5% formalin / glycerin,5%formalin_withglycerine_12.36x5.3-9.92x2.6_20260304_173332.csv,,33,0.6960950000000139
+5% formalin / glycerin,5%formalin_withglycerine_12.36x5.3-9.92x2.6_20260304_173332.csv,,34,0.6841149999999914
+5% formalin / glycerin,5%formalin_withglycerine_12.36x5.3-9.92x2.6_20260304_173332.csv,,35,0.6824200000000076
+5% formalin / glycerin,5%formalin_withglycerine_12.36x5.3-9.92x2.6_20260304_173332.csv,,36,0.6884550000000047
+5% formalin / glycerin,5%formalin_withglycerine_12.36x5.3-9.92x2.6_20260304_173332.csv,,37,0.6913299999999936
+5% formalin / glycerin,5%formalin_withglycerine_12.36x5.3-9.92x2.6_20260304_173332.csv,,38,0.6858699999999658
+5% formalin / glycerin,5%formalin_withglycerine_12.36x5.3-9.92x2.6_20260304_173332.csv,,39,0.6857549999999719
+5% formalin / glycerin,5%formalin_withglycerine_12.36x5.3-9.92x2.6_20260304_173332.csv,,40,0.6857899999999972
+5% formalin / glycerin,5%formalin_withglycerine_12.36x5.3-9.92x2.6_20260304_173332.csv,,41,0.6858849999999848
+5% formalin / glycerin,5%formalin_withglycerine_12.36x5.3-9.92x2.6_20260304_173332.csv,,42,0.6830700000000434
+5% formalin / glycerin,5%formalin_withglycerine_12.36x5.3-9.92x2.6_20260304_173332.csv,,43,0.6841499999999883
+5% formalin / glycerin,5%formalin_withglycerine_12.36x5.3-9.92x2.6_20260304_173332.csv,,44,0.6771300000000053
+5% formalin / glycerin,5%formalin_withglycerine_12.36x5.3-9.92x2.6_20260304_173332.csv,,45,0.6704799999999977
+5% formalin / glycerin,5%formalin_withglycerine_12.36x5.3-9.92x2.6_20260304_173332.csv,,46,0.6660449999999969
+5% formalin / glycerin,5%formalin_withglycerine_12.36x5.3-9.92x2.6_20260304_173332.csv,,47,0.6665499999999724
+5% formalin / glycerin,5%formalin_withglycerine_12.36x5.3-9.92x2.6_20260304_173332.csv,,48,0.6615550000000212
+5% formalin / glycerin,5%formalin_withglycerine_12.36x5.3-9.92x2.6_20260304_173332.csv,,49,0.6607750000000294
+5% formalin / glycerin,5%formalin_withglycerine_12.36x5.3-9.92x2.6_20260304_173332.csv,,50,0.6569950000000233
+5% formalin / glycerin,5%formalin_withglycerine_12.36x5.3-9.92x2.6_20260304_173332.csv,,51,0.6599099999999964
+5% formalin / glycerin,5%formalin_withglycerine_12.36x5.3-9.92x2.6_20260304_173332.csv,,52,0.6622300000000223
+5% formalin / glycerin,5%formalin_withglycerine_12.36x5.3-9.92x2.6_20260304_173332.csv,,53,0.6622699999999497
+5% formalin / glycerin,5%formalin_withglycerine_12.36x5.3-9.92x2.6_20260304_173332.csv,,54,0.6556100000000242
+5% formalin / glycerin,5%formalin_withglycerine_12.36x5.3-9.92x2.6_20260304_173332.csv,,55,0.6520299999999963
+5% formalin / glycerin,5%formalin_withglycerine_12.36x5.3-9.92x2.6_20260304_173332.csv,,56,0.6508149999999944
+5% formalin / glycerin,5%formalin_withglycerine_12.36x5.3-9.92x2.6_20260304_173332.csv,,57,0.6572350000000142
+5% formalin / glycerin,5%formalin_withglycerine_12.36x5.3-9.92x2.6_20260304_173332.csv,,58,0.6495649999999955
+5% formalin / glycerin,5%formalin_withglycerine_12.36x5.3-9.92x2.6_20260304_173332.csv,,59,0.6480449999999962
+5% formalin / glycerin,5%formalin_withglycerine_12.36x5.3-9.92x2.6_20260304_173332.csv,,60,0.6450299999999913
+5% formalin / glycerin,5%formalin_withglycerine_12.36x5.3-9.92x2.6_20260304_173332.csv,,61,0.6460150000000056
+5% formalin / glycerin,5%formalin_withglycerine_12.36x5.3-9.92x2.6_20260304_173332.csv,,62,0.6459650000000181
+5% formalin / glycerin,5%formalin_withglycerine_12.36x5.3-9.92x2.6_20260304_173332.csv,,63,0.6420599999999865
+5% formalin / glycerin,5%formalin_withglycerine_12.36x5.3-9.92x2.6_20260304_173332.csv,,64,0.6483650000000409
+5% formalin / glycerin,5%formalin_withglycerine_12.36x5.3-9.92x2.6_20260304_173332.csv,,65,0.638450000000006
+5% formalin / glycerin,5%formalin_withglycerine_12.36x5.3-9.92x2.6_20260304_173332.csv,,66,0.6373949999999979
+5% formalin / glycerin,5%formalin_withglycerine_12.36x5.3-9.92x2.6_20260304_173332.csv,,67,0.6410900000000197
+5% formalin / glycerin,5%formalin_withglycerine_12.36x5.3-9.92x2.6_20260304_173332.csv,,68,0.6395750000000362
+5% formalin / glycerin,5%formalin_withglycerine_12.36x5.3-9.92x2.6_20260304_173332.csv,,69,0.6317050000000393
+5% formalin / glycerin,5%formalin_withglycerine_12.36x5.3-9.92x2.6_20260304_173332.csv,,70,0.6318250000000205
+5% formalin / glycerin,5%formalin_withglycerine_12.36x5.3-9.92x2.6_20260304_173332.csv,,71,0.6301450000000273
+5% formalin / glycerin,5%formalin_withglycerine_12.36x5.3-9.92x2.6_20260304_173332.csv,,72,0.6286600000000249
+5% formalin / glycerin,5%formalin_withglycerine_12.36x5.3-9.92x2.6_20260304_173332.csv,,73,0.6240400000000363
+5% formalin / glycerin,5%formalin_withglycerine_12.36x5.3-9.92x2.6_20260304_173332.csv,,74,0.6269300000000442
+5% formalin / glycerin,5%formalin_withglycerine_12.36x5.3-9.92x2.6_20260304_173332.csv,,75,0.6273250000000132
+5% formalin / glycerin,5%formalin_withglycerine_12.36x5.3-9.92x2.6_20260304_173332.csv,,76,0.6245250000000055
+5% formalin / glycerin,5%formalin_withglycerine_12.36x5.3-9.92x2.6_20260304_173332.csv,,77,0.6207599999999616
+5% formalin / glycerin,5%formalin_withglycerine_12.36x5.3-9.92x2.6_20260304_173332.csv,,78,0.6262099999999862
+5% formalin / glycerin,5%formalin_withglycerine_12.36x5.3-9.92x2.6_20260304_173332.csv,,79,0.6152599999999495
+5% formalin / glycerin,5%formalin_withglycerine_12.36x5.3-9.92x2.6_20260304_173332.csv,,80,0.6157749999999851
+5% formalin / glycerin,5%formalin_withglycerine_12.36x5.3-9.92x2.6_20260304_173332.csv,,81,0.6142750000000206
+5% formalin / glycerin,5%formalin_withglycerine_12.36x5.3-9.92x2.6_20260304_173332.csv,,82,0.6152799999999843
+5% formalin / glycerin,5%formalin_withglycerine_12.36x5.3-9.92x2.6_20260304_173332.csv,,83,0.6179099999999949
+5% formalin / glycerin,5%formalin_withglycerine_12.36x5.3-9.92x2.6_20260304_173332.csv,,84,0.6131999999999778
+5% formalin / glycerin,5%formalin_withglycerine_12.36x5.3-9.92x2.6_20260304_173332.csv,,85,0.6083449999999857
+5% formalin / glycerin,5%formalin_withglycerine_12.36x5.3-9.92x2.6_20260304_173332.csv,,86,0.6053600000000188
+5% formalin / glycerin,5%formalin_withglycerine_12.36x5.3-9.92x2.6_20260304_173332.csv,,87,0.6113249999999937
+5% formalin / glycerin,5%formalin_withglycerine_12.36x5.3-9.92x2.6_20260304_173332.csv,,88,0.604770000000002
+5% formalin / glycerin,5%formalin_withglycerine_12.36x5.3-9.92x2.6_20260304_173332.csv,,89,0.6082299999999918
+5% formalin / glycerin,5%formalin_withglycerine_12.36x5.3-9.92x2.6_20260304_173332.csv,,90,0.6094250000000159
+5% formalin / glycerin,5%formalin_withglycerine_12.36x5.3-9.92x2.6_20260304_173332.csv,,91,0.6120149999999853
+5% formalin / glycerin,5%formalin_withglycerine_12.36x5.3-9.92x2.6_20260304_173332.csv,,92,0.6050400000000025
+5% formalin / glycerin,5%formalin_withglycerine_12.36x5.3-9.92x2.6_20260304_173332.csv,,93,0.6040850000000262
+5% formalin / glycerin,5%formalin_withglycerine_12.36x5.3-9.92x2.6_20260304_173332.csv,,94,0.6047799999999768
+5% formalin / glycerin,5%formalin_withglycerine_12.36x5.3-9.92x2.6_20260304_173332.csv,,95,0.6005500000000268
+5% formalin / glycerin,5%formalin_withglycerine_12.36x5.3-9.92x2.6_20260304_173332.csv,,96,0.6023699999999792
+5% formalin / glycerin,5%formalin_withglycerine_12.36x5.3-9.92x2.6_20260304_173332.csv,,97,0.6023349999999823
+5% formalin / glycerin,5%formalin_withglycerine_12.36x5.3-9.92x2.6_20260304_173332.csv,,98,0.6075799999999845
+5% formalin / glycerin,5%formalin_withglycerine_12.36x5.3-9.92x2.6_20260304_173332.csv,,99,0.6081449999999791
+5% formalin / glycerin,5%formalin_withglycerine_12.36x5.3-9.92x2.6_20260304_173332.csv,,100,0.6023150000000328
+5% formalin / glycerin,5%formalin_withglycerine_12.56x5.5-10.32x3.7_20260304_171853.is_tcyclic.csv,,1,1.21914000000001
+5% formalin / glycerin,5%formalin_withglycerine_12.56x5.5-10.32x3.7_20260304_171853.is_tcyclic.csv,,2,1.0603049999999712
+5% formalin / glycerin,5%formalin_withglycerine_12.56x5.5-10.32x3.7_20260304_171853.is_tcyclic.csv,,3,0.9966849999999567
+5% formalin / glycerin,5%formalin_withglycerine_12.56x5.5-10.32x3.7_20260304_171853.is_tcyclic.csv,,4,0.9542099999999891
+5% formalin / glycerin,5%formalin_withglycerine_12.56x5.5-10.32x3.7_20260304_171853.is_tcyclic.csv,,5,0.9005850000000066
+5% formalin / glycerin,5%formalin_withglycerine_12.56x5.5-10.32x3.7_20260304_171853.is_tcyclic.csv,,6,0.8626949999999738
+5% formalin / glycerin,5%formalin_withglycerine_12.56x5.5-10.32x3.7_20260304_171853.is_tcyclic.csv,,7,0.8526250000000175
+5% formalin / glycerin,5%formalin_withglycerine_12.56x5.5-10.32x3.7_20260304_171853.is_tcyclic.csv,,8,0.8430299999999704
+5% formalin / glycerin,5%formalin_withglycerine_12.56x5.5-10.32x3.7_20260304_171853.is_tcyclic.csv,,9,0.8285549999999944
+5% formalin / glycerin,5%formalin_withglycerine_12.56x5.5-10.32x3.7_20260304_171853.is_tcyclic.csv,,10,0.8081449999999961
+5% formalin / glycerin,5%formalin_withglycerine_12.56x5.5-10.32x3.7_20260304_171853.is_tcyclic.csv,,11,0.7904350000000022
+5% formalin / glycerin,5%formalin_withglycerine_12.56x5.5-10.32x3.7_20260304_171853.is_tcyclic.csv,,12,0.7676950000000318
+5% formalin / glycerin,5%formalin_withglycerine_12.56x5.5-10.32x3.7_20260304_171853.is_tcyclic.csv,,13,0.7619249999999624
+5% formalin / glycerin,5%formalin_withglycerine_12.56x5.5-10.32x3.7_20260304_171853.is_tcyclic.csv,,14,0.7505849999999725
+5% formalin / glycerin,5%formalin_withglycerine_12.56x5.5-10.32x3.7_20260304_171853.is_tcyclic.csv,,15,0.7380100000000311
+5% formalin / glycerin,5%formalin_withglycerine_12.56x5.5-10.32x3.7_20260304_171853.is_tcyclic.csv,,16,0.738835000000023
+5% formalin / glycerin,5%formalin_withglycerine_12.56x5.5-10.32x3.7_20260304_171853.is_tcyclic.csv,,17,0.7346000000000004
+5% formalin / glycerin,5%formalin_withglycerine_12.56x5.5-10.32x3.7_20260304_171853.is_tcyclic.csv,,18,0.7304449999999747
+5% formalin / glycerin,5%formalin_withglycerine_12.56x5.5-10.32x3.7_20260304_171853.is_tcyclic.csv,,19,0.7320799999999963
+5% formalin / glycerin,5%formalin_withglycerine_12.56x5.5-10.32x3.7_20260304_171853.is_tcyclic.csv,,20,0.730435
+5% formalin / glycerin,5%formalin_withglycerine_12.56x5.5-10.32x3.7_20260304_171853.is_tcyclic.csv,,21,0.7223250000000121
+5% formalin / glycerin,5%formalin_withglycerine_12.56x5.5-10.32x3.7_20260304_171853.is_tcyclic.csv,,22,0.7266199999999969
+5% formalin / glycerin,5%formalin_withglycerine_12.56x5.5-10.32x3.7_20260304_171853.is_tcyclic.csv,,23,0.7197750000000269
+5% formalin / glycerin,5%formalin_withglycerine_12.56x5.5-10.32x3.7_20260304_171853.is_tcyclic.csv,,24,0.7144900000000405
+5% formalin / glycerin,5%formalin_withglycerine_12.56x5.5-10.32x3.7_20260304_171853.is_tcyclic.csv,,25,0.699040000000025
+5% formalin / glycerin,5%formalin_withglycerine_12.56x5.5-10.32x3.7_20260304_171853.is_tcyclic.csv,,26,0.6900349999999946
+5% formalin / glycerin,5%formalin_withglycerine_12.56x5.5-10.32x3.7_20260304_171853.is_tcyclic.csv,,27,0.6921350000000359
+5% formalin / glycerin,5%formalin_withglycerine_12.56x5.5-10.32x3.7_20260304_171853.is_tcyclic.csv,,28,0.686380000000014
+5% formalin / glycerin,5%formalin_withglycerine_12.56x5.5-10.32x3.7_20260304_171853.is_tcyclic.csv,,29,0.6756600000000219
+5% formalin / glycerin,5%formalin_withglycerine_12.56x5.5-10.32x3.7_20260304_171853.is_tcyclic.csv,,30,0.6754849999999806
+5% formalin / glycerin,5%formalin_withglycerine_12.56x5.5-10.32x3.7_20260304_171853.is_tcyclic.csv,,31,0.6752500000000339
+5% formalin / glycerin,5%formalin_withglycerine_12.56x5.5-10.32x3.7_20260304_171853.is_tcyclic.csv,,32,0.67483500000003
+5% formalin / glycerin,5%formalin_withglycerine_12.56x5.5-10.32x3.7_20260304_171853.is_tcyclic.csv,,33,0.6642050000000097
+5% formalin / glycerin,5%formalin_withglycerine_12.56x5.5-10.32x3.7_20260304_171853.is_tcyclic.csv,,34,0.6629199999999855
+5% formalin / glycerin,5%formalin_withglycerine_12.56x5.5-10.32x3.7_20260304_171853.is_tcyclic.csv,,35,0.6617249999999899
+5% formalin / glycerin,5%formalin_withglycerine_12.56x5.5-10.32x3.7_20260304_171853.is_tcyclic.csv,,36,0.65787499999999
+5% formalin / glycerin,5%formalin_withglycerine_12.56x5.5-10.32x3.7_20260304_171853.is_tcyclic.csv,,37,0.6584949999999878
+5% formalin / glycerin,5%formalin_withglycerine_12.56x5.5-10.32x3.7_20260304_171853.is_tcyclic.csv,,38,0.6577399999999898
+5% formalin / glycerin,5%formalin_withglycerine_12.56x5.5-10.32x3.7_20260304_171853.is_tcyclic.csv,,39,0.6537199999999928
+5% formalin / glycerin,5%formalin_withglycerine_12.56x5.5-10.32x3.7_20260304_171853.is_tcyclic.csv,,40,0.6649750000000267
+5% formalin / glycerin,5%formalin_withglycerine_12.56x5.5-10.32x3.7_20260304_171853.is_tcyclic.csv,,41,0.6540450000000249
+5% formalin / glycerin,5%formalin_withglycerine_12.56x5.5-10.32x3.7_20260304_171853.is_tcyclic.csv,,42,0.6499799999999709
+5% formalin / glycerin,5%formalin_withglycerine_12.56x5.5-10.32x3.7_20260304_171853.is_tcyclic.csv,,43,0.6465100000000064
+5% formalin / glycerin,5%formalin_withglycerine_12.56x5.5-10.32x3.7_20260304_171853.is_tcyclic.csv,,44,0.6434999999999889
+5% formalin / glycerin,5%formalin_withglycerine_12.56x5.5-10.32x3.7_20260304_171853.is_tcyclic.csv,,45,0.6474299999999857
+5% formalin / glycerin,5%formalin_withglycerine_12.56x5.5-10.32x3.7_20260304_171853.is_tcyclic.csv,,46,0.6470050000000072
+5% formalin / glycerin,5%formalin_withglycerine_12.56x5.5-10.32x3.7_20260304_171853.is_tcyclic.csv,,47,0.6436349999999891
+5% formalin / glycerin,5%formalin_withglycerine_12.56x5.5-10.32x3.7_20260304_171853.is_tcyclic.csv,,48,0.6390849999999659
+5% formalin / glycerin,5%formalin_withglycerine_12.56x5.5-10.32x3.7_20260304_171853.is_tcyclic.csv,,49,0.6347500000000252
+5% formalin / glycerin,5%formalin_withglycerine_12.56x5.5-10.32x3.7_20260304_171853.is_tcyclic.csv,,50,0.6311350000000004
+5% formalin / glycerin,5%formalin_withglycerine_12.56x5.5-10.32x3.7_20260304_171853.is_tcyclic.csv,,51,0.6340800000000115
+5% formalin / glycerin,5%formalin_withglycerine_12.56x5.5-10.32x3.7_20260304_171853.is_tcyclic.csv,,52,0.6254699999999787
+5% formalin / glycerin,5%formalin_withglycerine_12.56x5.5-10.32x3.7_20260304_171853.is_tcyclic.csv,,53,0.6270749999999339
+5% formalin / glycerin,5%formalin_withglycerine_12.56x5.5-10.32x3.7_20260304_171853.is_tcyclic.csv,,54,0.6279550000000143
+5% formalin / glycerin,5%formalin_withglycerine_12.56x5.5-10.32x3.7_20260304_171853.is_tcyclic.csv,,55,0.6218599999999981
+5% formalin / glycerin,5%formalin_withglycerine_12.56x5.5-10.32x3.7_20260304_171853.is_tcyclic.csv,,56,0.6233650000000068
+5% formalin / glycerin,5%formalin_withglycerine_12.56x5.5-10.32x3.7_20260304_171853.is_tcyclic.csv,,57,0.6169149999999775
+5% formalin / glycerin,5%formalin_withglycerine_12.56x5.5-10.32x3.7_20260304_171853.is_tcyclic.csv,,58,0.6223450000000241
+5% formalin / glycerin,5%formalin_withglycerine_12.56x5.5-10.32x3.7_20260304_171853.is_tcyclic.csv,,59,0.6212899999999877
+5% formalin / glycerin,5%formalin_withglycerine_12.56x5.5-10.32x3.7_20260304_171853.is_tcyclic.csv,,60,0.6222900000000209
+5% formalin / glycerin,5%formalin_withglycerine_12.56x5.5-10.32x3.7_20260304_171853.is_tcyclic.csv,,61,0.6170899999999904
+5% formalin / glycerin,5%formalin_withglycerine_12.56x5.5-10.32x3.7_20260304_171853.is_tcyclic.csv,,62,0.6248549999999966
+5% formalin / glycerin,5%formalin_withglycerine_12.56x5.5-10.32x3.7_20260304_171853.is_tcyclic.csv,,63,0.61651999999998
+5% formalin / glycerin,5%formalin_withglycerine_12.56x5.5-10.32x3.7_20260304_171853.is_tcyclic.csv,,64,0.6144750000000272
+5% formalin / glycerin,5%formalin_withglycerine_12.56x5.5-10.32x3.7_20260304_171853.is_tcyclic.csv,,65,0.6141499999999951
+5% formalin / glycerin,5%formalin_withglycerine_12.56x5.5-10.32x3.7_20260304_171853.is_tcyclic.csv,,66,0.6282999999999959
+5% formalin / glycerin,5%formalin_withglycerine_12.56x5.5-10.32x3.7_20260304_171853.is_tcyclic.csv,,67,0.6175949999999943
+5% formalin / glycerin,5%formalin_withglycerine_12.56x5.5-10.32x3.7_20260304_171853.is_tcyclic.csv,,68,0.6180599999999856
+5% formalin / glycerin,5%formalin_withglycerine_12.56x5.5-10.32x3.7_20260304_171853.is_tcyclic.csv,,69,0.6265949999999805
+5% formalin / glycerin,5%formalin_withglycerine_12.56x5.5-10.32x3.7_20260304_171853.is_tcyclic.csv,,70,0.6227999999999838
+5% formalin / glycerin,5%formalin_withglycerine_12.56x5.5-10.32x3.7_20260304_171853.is_tcyclic.csv,,71,0.6118199999999661
+5% formalin / glycerin,5%formalin_withglycerine_12.56x5.5-10.32x3.7_20260304_171853.is_tcyclic.csv,,72,0.6200100000000077
+5% formalin / glycerin,5%formalin_withglycerine_12.56x5.5-10.32x3.7_20260304_171853.is_tcyclic.csv,,73,0.6193349999999782
+5% formalin / glycerin,5%formalin_withglycerine_12.56x5.5-10.32x3.7_20260304_171853.is_tcyclic.csv,,74,0.618899999999968
+5% formalin / glycerin,5%formalin_withglycerine_12.56x5.5-10.32x3.7_20260304_171853.is_tcyclic.csv,,75,0.6101800000000139
+5% formalin / glycerin,5%formalin_withglycerine_12.56x5.5-10.32x3.7_20260304_171853.is_tcyclic.csv,,76,0.610714999999999
+5% formalin / glycerin,5%formalin_withglycerine_12.56x5.5-10.32x3.7_20260304_171853.is_tcyclic.csv,,77,0.610005000000001
+5% formalin / glycerin,5%formalin_withglycerine_12.56x5.5-10.32x3.7_20260304_171853.is_tcyclic.csv,,78,0.6067500000000052
+5% formalin / glycerin,5%formalin_withglycerine_12.56x5.5-10.32x3.7_20260304_171853.is_tcyclic.csv,,79,0.6043949999999825
+5% formalin / glycerin,5%formalin_withglycerine_12.56x5.5-10.32x3.7_20260304_171853.is_tcyclic.csv,,80,0.6005700000000331
+5% formalin / glycerin,5%formalin_withglycerine_12.56x5.5-10.32x3.7_20260304_171853.is_tcyclic.csv,,81,0.6088000000000022
+5% formalin / glycerin,5%formalin_withglycerine_12.56x5.5-10.32x3.7_20260304_171853.is_tcyclic.csv,,82,0.6110249999999837
+5% formalin / glycerin,5%formalin_withglycerine_12.56x5.5-10.32x3.7_20260304_171853.is_tcyclic.csv,,83,0.6026949999999829
+5% formalin / glycerin,5%formalin_withglycerine_12.56x5.5-10.32x3.7_20260304_171853.is_tcyclic.csv,,84,0.599664999999959
+5% formalin / glycerin,5%formalin_withglycerine_12.56x5.5-10.32x3.7_20260304_171853.is_tcyclic.csv,,85,0.601095000000015
+5% formalin / glycerin,5%formalin_withglycerine_12.56x5.5-10.32x3.7_20260304_171853.is_tcyclic.csv,,86,0.5950249999999926
+5% formalin / glycerin,5%formalin_withglycerine_12.56x5.5-10.32x3.7_20260304_171853.is_tcyclic.csv,,87,0.599045000000018
+5% formalin / glycerin,5%formalin_withglycerine_12.56x5.5-10.32x3.7_20260304_171853.is_tcyclic.csv,,88,0.5936599999999714
+5% formalin / glycerin,5%formalin_withglycerine_12.56x5.5-10.32x3.7_20260304_171853.is_tcyclic.csv,,89,0.5921400000000006
+5% formalin / glycerin,5%formalin_withglycerine_12.56x5.5-10.32x3.7_20260304_171853.is_tcyclic.csv,,90,0.5943700000000263
+5% formalin / glycerin,5%formalin_withglycerine_12.56x5.5-10.32x3.7_20260304_171853.is_tcyclic.csv,,91,0.5836749999999711
+5% formalin / glycerin,5%formalin_withglycerine_12.56x5.5-10.32x3.7_20260304_171853.is_tcyclic.csv,,92,0.5924150000000168
+5% formalin / glycerin,5%formalin_withglycerine_12.56x5.5-10.32x3.7_20260304_171853.is_tcyclic.csv,,93,0.5903399999999976
+5% formalin / glycerin,5%formalin_withglycerine_12.56x5.5-10.32x3.7_20260304_171853.is_tcyclic.csv,,94,0.5916050000000155
+5% formalin / glycerin,5%formalin_withglycerine_12.56x5.5-10.32x3.7_20260304_171853.is_tcyclic.csv,,95,0.5939649999999688
+5% formalin / glycerin,5%formalin_withglycerine_12.56x5.5-10.32x3.7_20260304_171853.is_tcyclic.csv,,96,0.5869600000000048
+5% formalin / glycerin,5%formalin_withglycerine_12.56x5.5-10.32x3.7_20260304_171853.is_tcyclic.csv,,97,0.5962550000000135
+5% formalin / glycerin,5%formalin_withglycerine_12.56x5.5-10.32x3.7_20260304_171853.is_tcyclic.csv,,98,0.5908549999999764
+5% formalin / glycerin,5%formalin_withglycerine_12.56x5.5-10.32x3.7_20260304_171853.is_tcyclic.csv,,99,0.5920949999999721
+5% formalin / glycerin,5%formalin_withglycerine_12.56x5.5-10.32x3.7_20260304_171853.is_tcyclic.csv,,100,0.587175000000002
