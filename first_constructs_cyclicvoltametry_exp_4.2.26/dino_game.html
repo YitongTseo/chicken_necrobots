@@ -1,0 +1,550 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Dino Run — Necrobot Edition</title>
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+
+  body {
+    background: #1a1a2e;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    font-family: 'Courier New', monospace;
+    color: #e0e0e0;
+    overflow: hidden;
+  }
+
+  h1 {
+    font-size: 1.4rem;
+    letter-spacing: 4px;
+    margin-bottom: 8px;
+    color: #7fff7f;
+    text-shadow: 0 0 10px #7fff7f88;
+  }
+
+  #subtitle {
+    font-size: 0.7rem;
+    color: #888;
+    margin-bottom: 18px;
+    letter-spacing: 2px;
+  }
+
+  #score-bar {
+    display: flex;
+    gap: 32px;
+    margin-bottom: 10px;
+    font-size: 0.85rem;
+    letter-spacing: 2px;
+  }
+
+  #score-bar span { color: #aaa; }
+  #score-bar strong { color: #fff; }
+
+  #canvas-wrap {
+    position: relative;
+    border: 2px solid #333;
+    border-radius: 4px;
+    box-shadow: 0 0 30px #7fff7f22;
+  }
+
+  canvas { display: block; }
+
+  #msg {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    pointer-events: none;
+  }
+
+  #msg h2 {
+    font-size: 1.6rem;
+    letter-spacing: 3px;
+    color: #7fff7f;
+    text-shadow: 0 0 12px #7fff7f;
+  }
+
+  #msg p {
+    font-size: 0.75rem;
+    color: #aaa;
+    margin-top: 6px;
+    letter-spacing: 2px;
+  }
+
+  #hint {
+    margin-top: 14px;
+    font-size: 0.72rem;
+    color: #555;
+    letter-spacing: 1px;
+  }
+</style>
+</head>
+<body>
+
+<h1>DINO RUN</h1>
+<div id="subtitle">NECROBOT EDITION</div>
+
+<div id="score-bar">
+  <div><span>SCORE </span><strong id="sc">0</strong></div>
+  <div><span>HI </span><strong id="hi">0</strong></div>
+  <div><span>SPEED </span><strong id="sp">1.0×</strong></div>
+</div>
+
+<div id="canvas-wrap">
+  <canvas id="c" width="800" height="260"></canvas>
+  <div id="msg">
+    <h2>PRESS SPACE</h2>
+    <p>or tap to start</p>
+  </div>
+</div>
+
+<div id="hint">SPACE / ↑ / TAP — jump &nbsp;|&nbsp; ↓ — duck</div>
+
+<script>
+(() => {
+  const canvas = document.getElementById('c');
+  const ctx = canvas.getContext('2d');
+  const W = canvas.width, H = canvas.height;
+  const GY = H - 50; // ground y
+
+  const scEl = document.getElementById('sc');
+  const hiEl = document.getElementById('hi');
+  const spEl = document.getElementById('sp');
+  const msg  = document.getElementById('msg');
+
+  // ─── Palette ───────────────────────────────────────────────────────────────
+  const C = {
+    bg:     '#1a1a2e',
+    ground: '#2a2a4a',
+    grid:   '#1f1f3a',
+    dino:   '#7fff7f',
+    obs:    '#ff6b6b',
+    cloud:  '#2d2d50',
+    star:   '#ffffff',
+    score:  '#7fff7f',
+    trail:  'rgba(127,255,127,0.15)',
+  };
+
+  // ─── State ─────────────────────────────────────────────────────────────────
+  let state = 'idle'; // idle | running | dead
+  let score = 0, hiScore = 0, frame = 0;
+  let speed = 5;
+  const BASE_SPEED = 5;
+
+  // ─── Dino ──────────────────────────────────────────────────────────────────
+  const dino = {
+    x: 80, y: GY, w: 40, h: 50,
+    vy: 0, grounded: true, ducking: false,
+    jumpPower: -14,
+    legPhase: 0,
+    trail: [],
+
+    jump() {
+      if (this.grounded) {
+        this.vy = this.jumpPower;
+        this.grounded = false;
+      }
+    },
+
+    duck(on) {
+      this.ducking = on;
+      this.h = on ? 28 : 50;
+    },
+
+    update() {
+      if (!this.grounded) {
+        this.vy += 0.65;
+        this.y += this.vy;
+        if (this.y >= GY) {
+          this.y = GY;
+          this.vy = 0;
+          this.grounded = true;
+        }
+      }
+      this.legPhase += 0.25 * speed / BASE_SPEED;
+
+      // trail
+      this.trail.push({ x: this.x + this.w / 2, y: this.y + this.h / 2, r: this.grounded ? 14 : 20 });
+      if (this.trail.length > 8) this.trail.shift();
+    },
+
+    draw() {
+      // ghost trail
+      this.trail.forEach((t, i) => {
+        ctx.globalAlpha = i * 0.03;
+        ctx.fillStyle = C.dino;
+        ctx.beginPath();
+        ctx.ellipse(t.x, t.y, t.r * 0.5, t.r * 0.8, 0, 0, Math.PI * 2);
+        ctx.fill();
+      });
+      ctx.globalAlpha = 1;
+
+      const x = this.x, y = this.y - this.h;
+      const w = this.w, h = this.h;
+
+      ctx.fillStyle = C.dino;
+      ctx.shadowColor = C.dino;
+      ctx.shadowBlur = 8;
+
+      if (this.ducking) {
+        // ducking body — flat rectangle
+        ctx.beginPath();
+        roundRect(ctx, x, y + h * 0.4, w, h * 0.6, 5);
+        ctx.fill();
+        // head small
+        ctx.beginPath();
+        roundRect(ctx, x + w * 0.5, y + h * 0.1, w * 0.5, h * 0.4, 4);
+        ctx.fill();
+        // eye
+        ctx.fillStyle = C.bg;
+        ctx.shadowBlur = 0;
+        ctx.beginPath();
+        ctx.arc(x + w * 0.88, y + h * 0.22, 3.5, 0, Math.PI * 2);
+        ctx.fill();
+      } else {
+        // body
+        ctx.beginPath();
+        roundRect(ctx, x + 4, y + h * 0.28, w - 8, h * 0.55, 6);
+        ctx.fill();
+        // neck
+        ctx.fillStyle = C.dino;
+        ctx.beginPath();
+        roundRect(ctx, x + w * 0.55, y + h * 0.05, w * 0.3, h * 0.32, 4);
+        ctx.fill();
+        // head
+        ctx.beginPath();
+        roundRect(ctx, x + w * 0.45, y, w * 0.55, h * 0.3, 5);
+        ctx.fill();
+        // mouth jaw
+        ctx.beginPath();
+        roundRect(ctx, x + w * 0.7, y + h * 0.22, w * 0.3, h * 0.1, 3);
+        ctx.fill();
+        // eye
+        ctx.fillStyle = C.bg;
+        ctx.shadowBlur = 0;
+        ctx.beginPath();
+        ctx.arc(x + w * 0.82, y + h * 0.1, 4, 0, Math.PI * 2);
+        ctx.fill();
+        // legs
+        ctx.fillStyle = C.dino;
+        ctx.shadowBlur = 6;
+        const lx1 = x + w * 0.25;
+        const lx2 = x + w * 0.6;
+        const ly  = y + h * 0.83;
+        const lh  = h * 0.22;
+        const sw  = Math.sin(this.legPhase);
+
+        ctx.beginPath();
+        roundRect(ctx, lx1 - 5, ly + sw * 4,   10, lh,      3);
+        ctx.fill();
+        ctx.beginPath();
+        roundRect(ctx, lx2 - 5, ly - sw * 4,   10, lh,      3);
+        ctx.fill();
+      }
+
+      ctx.shadowBlur = 0;
+    },
+
+    hitbox() {
+      const pad = this.ducking ? 6 : 4;
+      return { x: this.x + pad, y: this.y - this.h + pad, w: this.w - pad * 2, h: this.h - pad };
+    }
+  };
+
+  // ─── Obstacles ─────────────────────────────────────────────────────────────
+  const obstacles = [];
+  let nextObsDist = 500;
+
+  function spawnObs() {
+    const roll = Math.random();
+    if (roll < 0.5) {
+      // cactus cluster
+      const n = 1 + Math.floor(Math.random() * 3);
+      obstacles.push({ type: 'cactus', x: W + 20, n,
+                        w: n * 22, h: 40 + Math.random() * 20 });
+    } else if (roll < 0.8) {
+      // tall cactus
+      obstacles.push({ type: 'cactus', x: W + 20, n: 1, w: 22, h: 60 + Math.random() * 20 });
+    } else {
+      // flying obstacle
+      const fy = GY - 60 - Math.random() * 60;
+      obstacles.push({ type: 'bird', x: W + 20, y: fy, w: 46, h: 22, wing: 0 });
+    }
+  }
+
+  function drawObs(o) {
+    ctx.fillStyle = C.obs;
+    ctx.shadowColor = C.obs;
+    ctx.shadowBlur = 6;
+
+    if (o.type === 'cactus') {
+      const bw = 14, bh = o.h;
+      const base_y = GY - bh;
+      // center column
+      ctx.beginPath();
+      roundRect(ctx, o.x + (o.w - bw) / 2, base_y, bw, bh, 3);
+      ctx.fill();
+      // arms
+      if (o.n >= 2) {
+        ctx.beginPath();
+        roundRect(ctx, o.x, base_y + bh * 0.3, o.w * 0.38, 8, 2);
+        ctx.fill();
+        ctx.beginPath();
+        roundRect(ctx, o.x, base_y + bh * 0.15, 8, bh * 0.2, 2);
+        ctx.fill();
+      }
+      if (o.n >= 3) {
+        ctx.beginPath();
+        roundRect(ctx, o.x + o.w * 0.62, base_y + bh * 0.4, o.w * 0.38, 8, 2);
+        ctx.fill();
+        ctx.beginPath();
+        roundRect(ctx, o.x + o.w - 8, base_y + bh * 0.25, 8, bh * 0.2, 2);
+        ctx.fill();
+      }
+    } else {
+      // bird (pterodactyl-ish)
+      o.wing += 0.2;
+      const by = o.y, bx = o.x;
+      const wingY = Math.sin(o.wing) * 6;
+      // body
+      ctx.beginPath();
+      ctx.ellipse(bx + 23, by + 11, 12, 6, 0, 0, Math.PI * 2);
+      ctx.fill();
+      // wings
+      ctx.beginPath();
+      ctx.moveTo(bx + 14, by + 11);
+      ctx.lineTo(bx,      by + 2 + wingY);
+      ctx.lineTo(bx + 14, by + 8);
+      ctx.fill();
+      ctx.beginPath();
+      ctx.moveTo(bx + 32, by + 11);
+      ctx.lineTo(bx + 46, by + 2 + wingY);
+      ctx.lineTo(bx + 32, by + 8);
+      ctx.fill();
+      // beak
+      ctx.beginPath();
+      ctx.moveTo(bx + 35, by + 9);
+      ctx.lineTo(bx + 46, by + 11);
+      ctx.lineTo(bx + 35, by + 14);
+      ctx.fill();
+    }
+    ctx.shadowBlur = 0;
+  }
+
+  function obsHitbox(o) {
+    if (o.type === 'cactus') return { x: o.x + 4, y: GY - o.h + 4, w: o.w - 8, h: o.h - 4 };
+    return { x: o.x + 4, y: o.y + 4, w: o.w - 8, h: o.h - 8 };
+  }
+
+  // ─── Clouds / stars ────────────────────────────────────────────────────────
+  const clouds = Array.from({ length: 6 }, () => ({
+    x: Math.random() * W,
+    y: 30 + Math.random() * 80,
+    w: 60 + Math.random() * 80,
+    h: 18 + Math.random() * 14,
+    s: 0.3 + Math.random() * 0.5,
+  }));
+
+  const stars = Array.from({ length: 70 }, () => ({
+    x: Math.random() * W,
+    y: Math.random() * (GY - 100),
+    r: Math.random() * 1.5,
+  }));
+
+  // ─── Particles ─────────────────────────────────────────────────────────────
+  const particles = [];
+
+  function spawnDeathParticles() {
+    for (let i = 0; i < 25; i++) {
+      particles.push({
+        x: dino.x + dino.w / 2,
+        y: dino.y - dino.h / 2,
+        vx: (Math.random() - 0.5) * 8,
+        vy: (Math.random() - 0.5) * 8,
+        life: 1.0,
+        r: 3 + Math.random() * 5,
+      });
+    }
+  }
+
+  // ─── Helpers ───────────────────────────────────────────────────────────────
+  function roundRect(ctx, x, y, w, h, r) {
+    ctx.beginPath();
+    ctx.moveTo(x + r, y);
+    ctx.lineTo(x + w - r, y);
+    ctx.quadraticCurveTo(x + w, y, x + w, y + r);
+    ctx.lineTo(x + w, y + h - r);
+    ctx.quadraticCurveTo(x + w, y + h, x + w - r, y + h);
+    ctx.lineTo(x + r, y + h);
+    ctx.quadraticCurveTo(x, y + h, x, y + h - r);
+    ctx.lineTo(x, y + r);
+    ctx.quadraticCurveTo(x, y, x + r, y);
+    ctx.closePath();
+  }
+
+  function rectsOverlap(a, b) {
+    return a.x < b.x + b.w && a.x + a.w > b.x &&
+           a.y < b.y + b.h && a.y + a.h > b.y;
+  }
+
+  // ─── Draw ground ───────────────────────────────────────────────────────────
+  function drawGround() {
+    // grid lines
+    ctx.strokeStyle = C.grid;
+    ctx.lineWidth = 1;
+    const offset = (frame * speed * 0.5) % 60;
+    for (let x = -offset; x < W; x += 60) {
+      ctx.beginPath();
+      ctx.moveTo(x, GY);
+      ctx.lineTo(x - 30, H);
+      ctx.stroke();
+    }
+    // ground line
+    ctx.strokeStyle = C.ground;
+    ctx.lineWidth = 2;
+    ctx.beginPath();
+    ctx.moveTo(0, GY);
+    ctx.lineTo(W, GY);
+    ctx.stroke();
+  }
+
+  // ─── Draw background ───────────────────────────────────────────────────────
+  function drawBg() {
+    ctx.fillStyle = C.bg;
+    ctx.fillRect(0, 0, W, H);
+
+    // stars
+    ctx.fillStyle = '#ffffff';
+    stars.forEach(s => {
+      ctx.globalAlpha = 0.4 + Math.sin(frame * 0.04 + s.x) * 0.2;
+      ctx.beginPath();
+      ctx.arc(s.x, s.y, s.r, 0, Math.PI * 2);
+      ctx.fill();
+    });
+    ctx.globalAlpha = 1;
+
+    // clouds
+    ctx.fillStyle = C.cloud;
+    clouds.forEach(cl => {
+      ctx.beginPath();
+      ctx.ellipse(cl.x + cl.w / 2, cl.y, cl.w / 2, cl.h / 2, 0, 0, Math.PI * 2);
+      ctx.fill();
+      if (state === 'running') cl.x -= cl.s * speed / BASE_SPEED;
+      if (cl.x + cl.w < 0) { cl.x = W + cl.w; cl.y = 30 + Math.random() * 80; }
+    });
+  }
+
+  // ─── Main loop ─────────────────────────────────────────────────────────────
+  function loop() {
+    requestAnimationFrame(loop);
+    frame++;
+    drawBg();
+    drawGround();
+
+    if (state === 'running') {
+      speed = BASE_SPEED + score * 0.003;
+      score++;
+      scEl.textContent = score;
+      spEl.textContent = (speed / BASE_SPEED).toFixed(1) + '×';
+
+      // obstacles
+      nextObsDist -= speed;
+      if (nextObsDist <= 0) {
+        spawnObs();
+        nextObsDist = 350 + Math.random() * 400 - score * 0.05;
+        nextObsDist = Math.max(nextObsDist, 200);
+      }
+
+      obstacles.forEach(o => {
+        o.x -= speed;
+        drawObs(o);
+      });
+
+      // collision
+      const dh = dino.hitbox();
+      for (const o of obstacles) {
+        if (rectsOverlap(dh, obsHitbox(o))) {
+          state = 'dead';
+          spawnDeathParticles();
+          if (score > hiScore) { hiScore = score; hiEl.textContent = hiScore; }
+          msg.innerHTML = '<h2>GAME OVER</h2><p>SPACE / TAP to restart</p>';
+          msg.style.display = '';
+          break;
+        }
+      }
+
+      // clean off-screen
+      for (let i = obstacles.length - 1; i >= 0; i--) {
+        if (obstacles[i].x + (obstacles[i].w || 50) < 0) obstacles.splice(i, 1);
+      }
+
+      dino.update();
+    }
+
+    // particles
+    for (let i = particles.length - 1; i >= 0; i--) {
+      const p = particles[i];
+      p.x += p.vx; p.y += p.vy; p.vy += 0.2; p.life -= 0.04;
+      if (p.life <= 0) { particles.splice(i, 1); continue; }
+      ctx.globalAlpha = p.life;
+      ctx.fillStyle = C.obs;
+      ctx.shadowColor = C.obs;
+      ctx.shadowBlur = 4;
+      ctx.beginPath();
+      ctx.arc(p.x, p.y, p.r * p.life, 0, Math.PI * 2);
+      ctx.fill();
+      ctx.globalAlpha = 1;
+      ctx.shadowBlur = 0;
+    }
+
+    dino.draw();
+
+    // score glow
+    if (state === 'running' && score % 100 < 8) {
+      ctx.fillStyle = C.score;
+      ctx.globalAlpha = 0.08 * (8 - score % 100) / 8;
+      ctx.fillRect(0, 0, W, H);
+      ctx.globalAlpha = 1;
+    }
+  }
+
+  // ─── Input ─────────────────────────────────────────────────────────────────
+  function startGame() {
+    state = 'running';
+    score = 0;
+    speed = BASE_SPEED;
+    obstacles.length = 0;
+    nextObsDist = 500;
+    dino.y = GY; dino.vy = 0; dino.grounded = true;
+    dino.duck(false);
+    dino.trail.length = 0;
+    particles.length = 0;
+    msg.style.display = 'none';
+  }
+
+  function onAction() {
+    if (state === 'idle' || state === 'dead') startGame();
+    else dino.jump();
+  }
+
+  document.addEventListener('keydown', e => {
+    if (e.code === 'Space' || e.code === 'ArrowUp') { e.preventDefault(); onAction(); }
+    if (e.code === 'ArrowDown') { e.preventDefault(); dino.duck(true); }
+  });
+  document.addEventListener('keyup', e => {
+    if (e.code === 'ArrowDown') dino.duck(false);
+  });
+  canvas.addEventListener('touchstart', e => { e.preventDefault(); onAction(); }, { passive: false });
+  canvas.addEventListener('click', onAction);
+
+  loop();
+})();
+</script>
+</body>
+</html>

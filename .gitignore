@@ -1,0 +1,15 @@
+# Video files (too large for GitHub)
+*.mov
+*.mp4
+*.avi
+*.mkv
+*.m4v
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
