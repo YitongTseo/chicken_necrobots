@@ -21,7 +21,8 @@ HERE = Path(__file__).parent
 LABEL_DIR = HERE / "digit_crops" / "to_label"
 
 # Expected n_digits per tag (for validation feedback, not enforcement)
-N_DIGITS = {"baseline": 4, "decell_1soak": 5, "decell_3soak": 4, "decell_fresh": 4}
+N_DIGITS = {"baseline": 4, "decell_1soak": 5, "decell_3soak": 4,
+            "decell_fresh": 4, "decell_2soak": 4, "decell_3soak_dry_rewet": 4}
 
 FNAME_RE = re.compile(r"^(?P<label>[^_]+)_(?P<tag>.+)_(?P<idx>\d+)$")
 

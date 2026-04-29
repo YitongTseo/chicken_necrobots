@@ -38,6 +38,16 @@ EXPERIMENTS = {
         crop=dict(y0=819, y1=907, x0=1010, x1=1285),
         n_digits=4, v_min=1.0, v_max=6.0,
     ),
+    "decell_2soak": dict(
+        video=DATA_DIR / "2026.4.16-decel-2soakANDelectropolymeization.mov",
+        crop=dict(y0=690, y1=790, x0=1175, x1=1450),
+        n_digits=4, v_min=6.5, v_max=9.0,
+    ),
+    "decell_3soak_dry_rewet": dict(
+        video=DATA_DIR / "2026.4.16-decel-3soak-dry-then-rewet.mov",
+        crop=dict(y0=731, y1=825, x0=1114, x1=1354),
+        n_digits=4, v_min=8.0, v_max=11.0,
+    ),
 }
 
 

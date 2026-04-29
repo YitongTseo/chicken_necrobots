@@ -26,7 +26,7 @@ N_CLASSES = 11  # 0-9 + blank(=10)
 BLANK = 10
 
 BATCH = 32
-EPOCHS = 40
+EPOCHS = 60
 LR = 1e-3
 SEED = 0
 VAL_FRAC = 0.15
@@ -74,10 +74,18 @@ class DisplayDataset(Dataset):
             a = 1.0 + (random.random() - 0.5) * 0.4
             b = (random.random() - 0.5) * 30
             img = np.clip(img.astype(np.float32) * a + b, 0, 255).astype(np.uint8)
-            # small translation
-            tx = random.randint(-6, 6)
-            ty = random.randint(-3, 3)
-            M = np.float32([[1, 0, tx], [0, 1, ty]])
+            # spatial augmentation: scale + rotate + translate via affine
+            # all computed so that no digit content leaves the frame
+            scale = 1.0 + (random.random() - 0.5) * 0.1   # 0.95 – 1.05
+            angle = (random.random() - 0.5) * 2.0          # ±1 degree
+            cx, cy = IMG_W / 2, IMG_H / 2
+            M = cv2.getRotationMatrix2D((cx, cy), angle, scale)
+            margin_x = max(1, int(IMG_W * 0.05))  # ~16 px
+            margin_y = max(1, int(IMG_H * 0.05))  # ~5 px
+            tx = random.randint(-margin_x, margin_x)
+            ty = random.randint(-margin_y, margin_y)
+            M[0, 2] += tx
+            M[1, 2] += ty
             img = cv2.warpAffine(img, M, (IMG_W, IMG_H), borderValue=(0, 0, 0))
         x = torch.from_numpy(img).permute(2, 0, 1).float() / 255.0
         y = torch.tensor(label_to_slots(label), dtype=torch.long)
