@@ -1,0 +1,19 @@
+{
+  "experiment_duration_minutes": 41.71045,
+  "initial_offset_seconds": 23.728,
+  "cycle_duration_minutes": 41.31498333333333,
+  "expected_slope": -0.0413,
+  "measured_slope": -26.477588306664874,
+  "measured_intercept": 57.708784642368904,
+  "slope_error_percent": 64010.38330911591,
+  "r_squared": 0.2177172851282112,
+  "correlation": -0.4666018486120801,
+  "rmse": 0.2203010787730088,
+  "mae": 0.1862408937148873,
+  "noise_reduction_percent": -0.02267326719360309,
+  "min_control_voltage": 2.09,
+  "max_control_voltage": 2.12,
+  "total_data_points": 9803,
+  "cycle_data_points": 9710,
+  "median_filter_size": 15
+}

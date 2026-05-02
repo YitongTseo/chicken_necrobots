@@ -65,7 +65,8 @@ with open(OUTFILE, 'w', newline='') as f:
             loop_start = time.time()
             try:
                 ch1 = float(scpi_query(f':MEASure:SOURce1 CH1;:MEASure:{MEASUREMENT}?'))
-                ch2 = float(scpi_query(f':MEASure:SOURce1 CH2;:MEASure:{MEASUREMENT}?'))
+                ch2 = 0.0 # not interested...
+                # ch2 = float(scpi_query(f':MEASure:SOURce1 CH2;:MEASure:{MEASUREMENT}?'))
                 elapsed = time.time() - start
                 w.writerow([f'{elapsed:.3f}', datetime.now().isoformat(), ch1, ch2])
                 f.flush()
