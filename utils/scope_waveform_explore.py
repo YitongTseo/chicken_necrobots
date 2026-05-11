@@ -9,7 +9,7 @@ import usb.util
 import time
 import struct
 
-CHANNEL = 1  # set to whichever channel currently has the live signal
+CHANNEL = 2  # set to whichever channel currently has the live signal
 
 dev = usb.core.find(idVendor=0x2184, idProduct=0x0013)
 if dev is None:
@@ -71,13 +71,20 @@ print("IDN:", query_text('*IDN?'))
 print("=" * 70)
 
 # 1) Scaling info we'd need to convert ADC codes -> volts.
-print("\n--- Scaling queries ---")
+#    Plus state queries to diagnose post-replug "0 bytes" issues — channel
+#    must be displayed and acquisition must be running for :ACQ:MEM? to return data.
+print("\n--- Scaling / state queries ---")
 for q in [
     f':CHANnel{CHANNEL}:SCALe?',
     f':CHANnel{CHANNEL}:OFFSet?',
     f':CHANnel{CHANNEL}:POSition?',
     f':CHANnel{CHANNEL}:PROBe:RATio?',
     f':CHANnel{CHANNEL}:COUPling?',
+    f':CHANnel{CHANNEL}:DISPlay?',
+    f':CHANnel1:DISPlay?',
+    f':CHANnel2:DISPlay?',
+    ':TRIGger:STATe?',
+    ':RUN?',
     f':TIMebase:SCALe?',
     f':ACQuire{CHANNEL}:LENGth?',
     f':MEASure:SOURce1 CH{CHANNEL};:MEASure:MEAN?',
