@@ -1,0 +1,6 @@
+formalin_fixation_time,length(mm),width(mm),thickness(mm)
+1_DAY,7,4,0.36
+2_DAY,9,2.8,0.45
+3_DAY,5,3.1,0.426
+3_DAY_take_2,11,2.5,0.696
+4_DAY,11,3.4,0.374

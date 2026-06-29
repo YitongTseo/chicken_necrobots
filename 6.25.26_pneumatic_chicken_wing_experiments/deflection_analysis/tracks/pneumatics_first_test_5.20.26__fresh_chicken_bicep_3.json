@@ -1,0 +1,33 @@
+{
+  "group": "fresh",
+  "rel_path": "pneumatics_first_test_5.20.26/fresh_chicken_bicep_3.MOV",
+  "fps": 25.0,
+  "width": 1920,
+  "height": 1080,
+  "nframes": 300,
+  "tip_bbox": [
+    1498,
+    896,
+    49,
+    49
+  ],
+  "grid_bbox": [
+    1618,
+    740,
+    50,
+    41
+  ],
+  "grid_mm_per_square": 1.0,
+  "px_per_square": 23.319542925954376,
+  "px_per_mm": 23.319542925954376,
+  "grid_confidence": 6.187047061980811,
+  "tracker": "ncc",
+  "search_radius": 150,
+  "median_score": 0.9839854836463928,
+  "rest_frames": 12,
+  "rest_x": 1522.4503143131733,
+  "rest_y": 922.8347703143954,
+  "max_deflection_mm": 12.849072437093124,
+  "peak_to_peak_mm": 15.156273658656255,
+  "max_deflection_frame": 211
+}

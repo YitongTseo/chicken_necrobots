@@ -1,0 +1,24 @@
+{
+  "group": "70%_EtOH_1day_core_removed",
+  "rel_path": "EtOH_fixed_chicken_pneumatic_experiments_6.11.26/70%_EtOH_1days_1_forearm_core_taken_out.MOV",
+  "mode": "manual",
+  "px_per_mm": 49.0,
+  "px_per_square": 49.0,
+  "rest_frames": 12,
+  "seg_ok": true,
+  "area_px": 484133.0,
+  "area_mm2": 201.6380674718867,
+  "sqrt_area_mm": 14.199931953072406,
+  "caliper_length_mm": 32.293821062248114,
+  "proximal_pts": [
+    [
+      330,
+      351
+    ],
+    [
+      796,
+      684
+    ]
+  ],
+  "proximal_length_mm": 11.688818936485664
+}

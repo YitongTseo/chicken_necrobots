@@ -1,0 +1,33 @@
+{
+  "group": "2.5%_formalin_1day",
+  "rel_path": "2.5%_Formalin_30%_glycerin_chicken_5.25.26/2.5%_formalin_1day_3.MOV",
+  "fps": 25.0,
+  "width": 1920,
+  "height": 1080,
+  "nframes": 605,
+  "tip_bbox": [
+    1629,
+    605,
+    91,
+    85
+  ],
+  "grid_bbox": [
+    948,
+    163,
+    49,
+    48
+  ],
+  "grid_mm_per_square": 1.0,
+  "px_per_square": 48.53434809229849,
+  "px_per_mm": 48.53434809229849,
+  "grid_confidence": 4.3061722666218225,
+  "tracker": "ncc",
+  "search_radius": 150,
+  "median_score": 0.9934788942337036,
+  "rest_frames": 12,
+  "rest_x": 1674.3039898052812,
+  "rest_y": 647.5711201429367,
+  "max_deflection_mm": 0.8080063483956234,
+  "peak_to_peak_mm": 0.916791450102617,
+  "max_deflection_frame": 78
+}

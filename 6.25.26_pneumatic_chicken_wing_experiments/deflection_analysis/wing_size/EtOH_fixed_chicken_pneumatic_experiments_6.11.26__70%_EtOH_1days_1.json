@@ -1,0 +1,24 @@
+{
+  "group": "70%_EtOH_1day",
+  "rel_path": "EtOH_fixed_chicken_pneumatic_experiments_6.11.26/70%_EtOH_1days_1.MOV",
+  "mode": "auto",
+  "px_per_mm": 49.0,
+  "px_per_square": 49.0,
+  "rest_frames": 12,
+  "seg_ok": true,
+  "area_px": 438308.0,
+  "area_mm2": 182.55226988754686,
+  "sqrt_area_mm": 13.511190542936875,
+  "caliper_length_mm": 28.816911886290384,
+  "proximal_pts": [
+    [
+      467,
+      540
+    ],
+    [
+      976,
+      866
+    ]
+  ],
+  "proximal_length_mm": 12.335666974946458
+}

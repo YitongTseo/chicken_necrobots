@@ -1,0 +1,24 @@
+{
+  "group": "fresh_double_actuator",
+  "rel_path": "pneumatics_first_test_5.20.26/fresh_chicken_double_actuator.MOV",
+  "mode": "auto",
+  "px_per_mm": 46.0,
+  "px_per_square": 46.0,
+  "rest_frames": 12,
+  "seg_ok": true,
+  "area_px": 175751.0,
+  "area_mm2": 83.05812854442344,
+  "sqrt_area_mm": 9.11362323910877,
+  "caliper_length_mm": 26.910567421394123,
+  "proximal_pts": [
+    [
+      336,
+      208
+    ],
+    [
+      544,
+      523
+    ]
+  ],
+  "proximal_length_mm": 8.206025035357092
+}

@@ -1,0 +1,33 @@
+{
+  "group": "5%_formalin_2day",
+  "rel_path": "pneumatics_first_test_5.20.26/5%_formalin_tricep_3.MOV",
+  "fps": 25.0,
+  "width": 1920,
+  "height": 1080,
+  "nframes": 672,
+  "tip_bbox": [
+    1803,
+    658,
+    35,
+    39
+  ],
+  "grid_bbox": [
+    1186,
+    795,
+    49,
+    45
+  ],
+  "grid_mm_per_square": 1.0,
+  "px_per_square": 23.28827623324931,
+  "px_per_mm": 23.28827623324931,
+  "grid_confidence": 7.79223223566746,
+  "tracker": "ncc",
+  "search_radius": 150,
+  "median_score": 0.9911256730556488,
+  "rest_frames": 12,
+  "rest_x": 1819.805681809783,
+  "rest_y": 677.465977396816,
+  "max_deflection_mm": 2.7650855571619566,
+  "peak_to_peak_mm": 2.76750258190119,
+  "max_deflection_frame": 518
+}

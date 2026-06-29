@@ -1,0 +1,31 @@
+{
+  "group": "fresh_double_actuator",
+  "rel_path": "pneumatics_first_test_5.20.26/fresh_chicken_double_actuator_2.MOV",
+  "fps": 25.0,
+  "width": 1920,
+  "height": 1080,
+  "nframes": 327,
+  "tip_bbox": [
+    1224,
+    1034,
+    26,
+    35
+  ],
+  "calibration": {
+    "method": "config_override",
+    "confidence": 100.0
+  },
+  "grid_mm_per_square": 1.0,
+  "px_per_square": 48.0,
+  "px_per_mm": 48.0,
+  "grid_confidence": 100.0,
+  "mode": "ncc",
+  "search_radius": 180,
+  "median_score": 0.997344434261322,
+  "rest_frames": 12,
+  "rest_x": 1236.8732611387968,
+  "rest_y": 1052.548741042614,
+  "max_deflection_mm": 5.032926330340461,
+  "peak_to_peak_mm": 5.076291150645734,
+  "max_deflection_frame": 260
+}

@@ -1,0 +1,24 @@
+{
+  "group": "fresh",
+  "rel_path": "pneumatics_first_test_5.20.26/fresh_chicken_bicep_2.MOV",
+  "mode": "auto",
+  "px_per_mm": 46.0,
+  "px_per_square": 46.0,
+  "rest_frames": 12,
+  "seg_ok": true,
+  "area_px": 342742.0,
+  "area_mm2": 161.97637051039698,
+  "sqrt_area_mm": 12.72699377348779,
+  "caliper_length_mm": 29.719744825859085,
+  "proximal_pts": [
+    [
+      240,
+      323
+    ],
+    [
+      654,
+      637
+    ]
+  ],
+  "proximal_length_mm": 11.295816178479368
+}

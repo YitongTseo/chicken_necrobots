@@ -1,0 +1,33 @@
+{
+  "group": "70%_EtOH_4day",
+  "rel_path": "EtOH_fixed_chicken_pneumatic_experiments_6.11.26/70%_EtOH_4days_1.MOV",
+  "fps": 25.0,
+  "width": 1920,
+  "height": 1080,
+  "nframes": 650,
+  "tip_bbox": [
+    1711,
+    389,
+    57,
+    76
+  ],
+  "grid_bbox": [
+    1423,
+    647,
+    47,
+    43
+  ],
+  "grid_mm_per_square": 1.0,
+  "px_per_square": 45.308159669607356,
+  "px_per_mm": 45.308159669607356,
+  "grid_confidence": 3.8947685286618756,
+  "tracker": "ncc",
+  "search_radius": 150,
+  "median_score": 0.9368111491203308,
+  "rest_frames": 12,
+  "rest_x": 1739.1502658575773,
+  "rest_y": 428.8324669972062,
+  "max_deflection_mm": 2.036107577374094,
+  "peak_to_peak_mm": 2.149630554501229,
+  "max_deflection_frame": 553
+}
