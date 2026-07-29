@@ -1,0 +1,27 @@
+0|07/23/26|12:42:52|ECLB|--|-|NFO|A|Firmware C:\Program Files (x86)\EC-Lab\11.71\interpr4.bin loaded.
+0|07/23/26|12:42:55|ECLB|--|-|NFO|A|Firmware C:\Program Files (x86)\EC-Lab\11.71\Vmp_iv_0395_aa.xlx loaded.
+0|07/23/26|12:42:55|ECLB|--|-|NFO|A|Starting connection with SP-300 130.216.45.249
+0|07/23/26|12:58:55|ECLB| 0|-|ERR|A|Ece overload on channel 1 SP-300 - 249 ($8)
+0|07/23/26|13:39:36|INTR| 0|0|ERR|A|Channel 1 stopped on overload (0xf)!
+0|07/23/26|13:39:36|ECLB| 0|-|ERR|A|Control amplifier overload on channel 1 SP-300 - 249 ($F)
+0|07/23/26|13:39:36|ECLB| 0|-|ERR|A|Ece overload on channel 1 SP-300 - 249 ($8)
+0|07/23/26|13:40:11|ECLB|--|-|NFO|A|connection closed
+0|07/23/26|13:40:17|ECLB|--|-|NFO|A|Open EC-Lab
+0|07/23/26|13:40:18|ECLB|--|-|NFO|A|Starting connection with SP-300 130.216.45.249
+0|07/23/26|13:43:56|ECLB|--|-|NFO|A|connection closed
+0|07/23/26|13:44:00|ECLB|--|-|NFO|A|Open EC-Lab
+0|07/23/26|13:44:02|ECLB|--|-|NFO|A|Starting connection with SP-300 130.216.45.249
+0|07/23/26|13:44:13|INTR| 0|0|ERR|A|Channel 1 stopped on overload (0xf)!
+0|07/23/26|13:44:13|ECLB| 0|-|ERR|A|Control amplifier overload on channel 1 SP-300 - 249 ($F)
+0|07/23/26|13:44:13|ECLB| 0|-|ERR|A|Ece overload on channel 1 SP-300 - 249 ($8)
+0|07/23/26|13:48:45|INTR| 0|0|ERR|A|Channel 1 stopped on overload (0xf)!
+0|07/23/26|13:48:45|ECLB| 0|-|ERR|A|Control amplifier overload on channel 1 SP-300 - 249 ($F)
+0|07/23/26|13:48:45|ECLB| 0|-|ERR|A|Ece overload on channel 1 SP-300 - 249 ($8)
+0|07/23/26|13:49:08|ECLB|--|-|NFO|A|connection closed
+0|07/23/26|13:49:17|ECLB|--|-|NFO|A|Open EC-Lab
+0|07/23/26|13:49:23|ECLB|--|-|NFO|A|connection closed
+0|07/23/26|13:49:23|ECLB|--|-|NFO|A|Connection refused (LastError <> 0 on socket 1 connection)
+0|07/23/26|13:49:49|ECLB|--|-|NFO|A|Firmware C:\Program Files (x86)\EC-Lab\11.71\interpr4.bin loaded.
+0|07/23/26|13:49:52|ECLB|--|-|NFO|A|Firmware C:\Program Files (x86)\EC-Lab\11.71\Vmp_iv_0395_aa.xlx loaded.
+0|07/23/26|13:49:52|ECLB|--|-|NFO|A|Starting connection with SP-300 130.216.45.249
+0|07/23/26|13:50:22|ECLB| 0|-|ERR|A|Control amplifier overload on channel 1 SP-300 - 249 ($1)

@@ -11,9 +11,9 @@ import sys
 import numpy as np
 
 POLL_INTERVAL = 0.25
-DURATION = 5 * 3600
+DURATION = 6 * 3600
 MEASUREMENT = 'MEAN'
-CHANNEL = 1 # which scope channel currently has the signal of interest
+CHANNEL = 2 # which scope channel currently has the signal of interest
 OUTFILE = f"scope_log_{datetime.now():%Y%m%d_%H%M%S}.csv"
 
 # GDS-2000A series: each vertical division spans 25 ADC codes.
